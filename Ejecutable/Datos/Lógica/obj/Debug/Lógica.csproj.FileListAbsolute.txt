@@ -1,0 +1,262 @@
+C:\Users\Paula\Desktop\Visual\Datos\Lógica\bin\Debug\Lógica.dll
+C:\Users\Paula\Desktop\Visual\Datos\Lógica\bin\Debug\Lógica.pdb
+C:\Users\Paula\Desktop\Visual\Datos\Lógica\obj\Debug\Lógica.csprojResolveAssemblyReference.cache
+C:\Users\Paula\Desktop\Visual\Datos\Lógica\obj\Debug\Lógica.dll
+C:\Users\Paula\Desktop\Visual\Datos\Lógica\obj\Debug\Lógica.pdb
+E:\Proyecto\Datos\Lógica\bin\Debug\Lógica.dll
+E:\Proyecto\Datos\Lógica\bin\Debug\Lógica.pdb
+E:\Proyecto\Datos\Lógica\obj\Debug\Lógica.csprojResolveAssemblyReference.cache
+E:\Proyecto\Datos\Lógica\obj\Debug\Lógica.dll
+E:\Proyecto\Datos\Lógica\obj\Debug\Lógica.pdb
+E:\Proyecto\Visual\Proyecto\Datos\Lógica\bin\Debug\Lógica.dll
+E:\Proyecto\Visual\Proyecto\Datos\Lógica\bin\Debug\Lógica.pdb
+E:\Proyecto\Visual\Proyecto\Datos\Lógica\obj\Debug\Lógica.csprojResolveAssemblyReference.cache
+E:\Proyecto\Visual\Proyecto\Datos\Lógica\obj\Debug\Lógica.dll
+E:\Proyecto\Visual\Proyecto\Datos\Lógica\obj\Debug\Lógica.pdb
+F:\Proyecto\Visual\Proyecto\Datos\Lógica\bin\Debug\Lógica.dll
+F:\Proyecto\Visual\Proyecto\Datos\Lógica\bin\Debug\Lógica.pdb
+F:\Proyecto\Visual\Proyecto\Datos\Lógica\obj\Debug\Lógica.csprojResolveAssemblyReference.cache
+F:\Proyecto\Visual\Proyecto\Datos\Lógica\obj\Debug\Lógica.dll
+F:\Proyecto\Visual\Proyecto\Datos\Lógica\obj\Debug\Lógica.pdb
+E:\Proyecto\Visual\Proyecto\Datos\Lógica\bin\Debug\Datos.dll
+E:\Proyecto\Visual\Proyecto\Datos\Lógica\bin\Debug\Datos.pdb
+C:\Users\ALUMNOS\Documents\MMMMMM\Proyecto\Datos\Lógica\bin\Debug\Lógica.dll
+C:\Users\ALUMNOS\Documents\MMMMMM\Proyecto\Datos\Lógica\bin\Debug\Lógica.pdb
+C:\Users\ALUMNOS\Documents\MMMMMM\Proyecto\Datos\Lógica\bin\Debug\Datos.dll
+C:\Users\ALUMNOS\Documents\MMMMMM\Proyecto\Datos\Lógica\bin\Debug\Datos.pdb
+C:\Users\ALUMNOS\Documents\MMMMMM\Proyecto\Datos\Lógica\obj\Debug\Lógica.csprojResolveAssemblyReference.cache
+C:\Users\ALUMNOS\Documents\MMMMMM\Proyecto\Datos\Lógica\obj\Debug\Lógica.dll
+C:\Users\ALUMNOS\Documents\MMMMMM\Proyecto\Datos\Lógica\obj\Debug\Lógica.pdb
+E:\ORIGINAL PROYECTO\Proyecto\Datos\Lógica\bin\Debug\Lógica.dll
+E:\ORIGINAL PROYECTO\Proyecto\Datos\Lógica\bin\Debug\Lógica.pdb
+E:\ORIGINAL PROYECTO\Proyecto\Datos\Lógica\bin\Debug\Datos.dll
+E:\ORIGINAL PROYECTO\Proyecto\Datos\Lógica\bin\Debug\Datos.pdb
+E:\ORIGINAL PROYECTO\Proyecto\Datos\Lógica\obj\Debug\Lógica.csprojResolveAssemblyReference.cache
+E:\ORIGINAL PROYECTO\Proyecto\Datos\Lógica\obj\Debug\Lógica.dll
+E:\ORIGINAL PROYECTO\Proyecto\Datos\Lógica\obj\Debug\Lógica.pdb
+G:\Proyecto\Datos\Lógica\bin\Debug\Lógica.dll
+G:\Proyecto\Datos\Lógica\bin\Debug\Lógica.pdb
+G:\Proyecto\Datos\Lógica\bin\Debug\Datos.dll
+G:\Proyecto\Datos\Lógica\bin\Debug\Datos.pdb
+G:\Proyecto\Datos\Lógica\obj\Debug\Lógica.csprojResolveAssemblyReference.cache
+G:\Proyecto\Datos\Lógica\obj\Debug\Lógica.dll
+G:\Proyecto\Datos\Lógica\obj\Debug\Lógica.pdb
+E:\Proyecto\Datos\Lógica\bin\Debug\Datos.dll
+E:\Proyecto\Datos\Lógica\bin\Debug\Datos.pdb
+F:\Proyecto\Datos\Lógica\bin\Debug\Lógica.dll
+F:\Proyecto\Datos\Lógica\bin\Debug\Lógica.pdb
+F:\Proyecto\Datos\Lógica\bin\Debug\Datos.dll
+F:\Proyecto\Datos\Lógica\bin\Debug\Datos.pdb
+F:\Proyecto\Datos\Lógica\obj\Debug\Lógica.csprojResolveAssemblyReference.cache
+F:\Proyecto\Datos\Lógica\obj\Debug\Lógica.dll
+F:\Proyecto\Datos\Lógica\obj\Debug\Lógica.pdb
+F:\jsajajaj\Proyecto\Datos\Lógica\bin\Debug\Lógica.dll
+F:\jsajajaj\Proyecto\Datos\Lógica\bin\Debug\Lógica.pdb
+F:\jsajajaj\Proyecto\Datos\Lógica\bin\Debug\Datos.dll
+F:\jsajajaj\Proyecto\Datos\Lógica\bin\Debug\Datos.pdb
+F:\jsajajaj\Proyecto\Datos\Lógica\obj\Debug\Lógica.csprojResolveAssemblyReference.cache
+F:\jsajajaj\Proyecto\Datos\Lógica\obj\Debug\Lógica.dll
+F:\jsajajaj\Proyecto\Datos\Lógica\obj\Debug\Lógica.pdb
+E:\jsajajaj\Proyecto\Datos\Lógica\bin\Debug\Lógica.dll
+E:\jsajajaj\Proyecto\Datos\Lógica\bin\Debug\Lógica.pdb
+E:\jsajajaj\Proyecto\Datos\Lógica\bin\Debug\Datos.dll
+E:\jsajajaj\Proyecto\Datos\Lógica\bin\Debug\Datos.pdb
+E:\jsajajaj\Proyecto\Datos\Lógica\obj\Debug\Lógica.csprojResolveAssemblyReference.cache
+E:\jsajajaj\Proyecto\Datos\Lógica\obj\Debug\Lógica.dll
+E:\jsajajaj\Proyecto\Datos\Lógica\obj\Debug\Lógica.pdb
+E:\PROYECTO\Proyecto\Datos\Lógica\bin\Debug\Lógica.dll
+E:\PROYECTO\Proyecto\Datos\Lógica\bin\Debug\Lógica.pdb
+E:\PROYECTO\Proyecto\Datos\Lógica\bin\Debug\Datos.dll
+E:\PROYECTO\Proyecto\Datos\Lógica\bin\Debug\Datos.pdb
+E:\PROYECTO\Proyecto\Datos\Lógica\obj\Debug\Lógica.csprojResolveAssemblyReference.cache
+E:\PROYECTO\Proyecto\Datos\Lógica\obj\Debug\Lógica.dll
+E:\PROYECTO\Proyecto\Datos\Lógica\obj\Debug\Lógica.pdb
+G:\TRABAJO SOFIA\PROYECTO\Proyecto\Datos\Lógica\bin\Debug\Lógica.dll
+G:\TRABAJO SOFIA\PROYECTO\Proyecto\Datos\Lógica\bin\Debug\Lógica.pdb
+G:\TRABAJO SOFIA\PROYECTO\Proyecto\Datos\Lógica\bin\Debug\Datos.dll
+G:\TRABAJO SOFIA\PROYECTO\Proyecto\Datos\Lógica\bin\Debug\Datos.pdb
+G:\TRABAJO SOFIA\PROYECTO\Proyecto\Datos\Lógica\obj\Debug\Lógica.csprojResolveAssemblyReference.cache
+G:\TRABAJO SOFIA\PROYECTO\Proyecto\Datos\Lógica\obj\Debug\Lógica.dll
+G:\TRABAJO SOFIA\PROYECTO\Proyecto\Datos\Lógica\obj\Debug\Lógica.pdb
+F:\TRABAJO SOFIA\PROYECTO\Proyecto\Datos\Lógica\bin\Debug\Lógica.dll
+F:\TRABAJO SOFIA\PROYECTO\Proyecto\Datos\Lógica\bin\Debug\Lógica.pdb
+F:\TRABAJO SOFIA\PROYECTO\Proyecto\Datos\Lógica\bin\Debug\Datos.dll
+F:\TRABAJO SOFIA\PROYECTO\Proyecto\Datos\Lógica\bin\Debug\Datos.pdb
+F:\TRABAJO SOFIA\PROYECTO\Proyecto\Datos\Lógica\obj\Debug\Lógica.csprojResolveAssemblyReference.cache
+F:\TRABAJO SOFIA\PROYECTO\Proyecto\Datos\Lógica\obj\Debug\Lógica.dll
+F:\TRABAJO SOFIA\PROYECTO\Proyecto\Datos\Lógica\obj\Debug\Lógica.pdb
+E:\PROYECTO\PROYECTO V2\Datos\Lógica\obj\Debug\Lógica.csprojResolveAssemblyReference.cache
+E:\PROYECTO\PROYECTO V2\Datos\Lógica\obj\Debug\Lógica.dll
+E:\PROYECTO\PROYECTO V2\Datos\Lógica\obj\Debug\Lógica.pdb
+E:\PROYECTO\PROYECTO V2\Datos\Lógica\bin\Debug\Lógica.dll
+E:\PROYECTO\PROYECTO V2\Datos\Lógica\bin\Debug\Lógica.pdb
+E:\PROYECTO\PROYECTO V2\Datos\Lógica\bin\Debug\Datos.dll
+E:\PROYECTO\PROYECTO V2\Datos\Lógica\bin\Debug\Datos.pdb
+F:\PROYECTO\PROYECTO V2\Datos\Lógica\bin\Debug\Lógica.dll
+F:\PROYECTO\PROYECTO V2\Datos\Lógica\bin\Debug\Lógica.pdb
+F:\PROYECTO\PROYECTO V2\Datos\Lógica\bin\Debug\Datos.dll
+F:\PROYECTO\PROYECTO V2\Datos\Lógica\bin\Debug\Datos.pdb
+F:\PROYECTO\PROYECTO V2\Datos\Lógica\obj\Debug\Lógica.csprojResolveAssemblyReference.cache
+F:\PROYECTO\PROYECTO V2\Datos\Lógica\obj\Debug\Lógica.dll
+F:\PROYECTO\PROYECTO V2\Datos\Lógica\obj\Debug\Lógica.pdb
+F:\Proyecto\Proyecto v3\Datos\Lógica\bin\Debug\Lógica.dll
+F:\Proyecto\Proyecto v3\Datos\Lógica\bin\Debug\Lógica.pdb
+F:\Proyecto\Proyecto v3\Datos\Lógica\bin\Debug\Datos.dll
+F:\Proyecto\Proyecto v3\Datos\Lógica\bin\Debug\Datos.pdb
+F:\Proyecto\Proyecto v3\Datos\Lógica\obj\Debug\Lógica.csprojResolveAssemblyReference.cache
+F:\Proyecto\Proyecto v3\Datos\Lógica\obj\Debug\Lógica.dll
+F:\Proyecto\Proyecto v3\Datos\Lógica\obj\Debug\Lógica.pdb
+E:\Proyecto\Proyecto v3\Datos\Lógica\bin\Debug\Lógica.dll
+E:\Proyecto\Proyecto v3\Datos\Lógica\bin\Debug\Lógica.pdb
+E:\Proyecto\Proyecto v3\Datos\Lógica\bin\Debug\Datos.dll
+E:\Proyecto\Proyecto v3\Datos\Lógica\bin\Debug\Datos.pdb
+E:\Proyecto\Proyecto v3\Datos\Lógica\obj\Debug\Lógica.csprojResolveAssemblyReference.cache
+E:\Proyecto\Proyecto v3\Datos\Lógica\obj\Debug\Lógica.dll
+E:\Proyecto\Proyecto v3\Datos\Lógica\obj\Debug\Lógica.pdb
+F:\Proyecto\Proyecto v5\Datos\Lógica\obj\Debug\Lógica.csprojResolveAssemblyReference.cache
+F:\Proyecto\Proyecto v5\Datos\Lógica\obj\Debug\Lógica.dll
+F:\Proyecto\Proyecto v5\Datos\Lógica\bin\Debug\Lógica.dll
+F:\Proyecto\Proyecto v5\Datos\Lógica\bin\Debug\Lógica.pdb
+F:\Proyecto\Proyecto v5\Datos\Lógica\bin\Debug\Datos.dll
+F:\Proyecto\Proyecto v5\Datos\Lógica\bin\Debug\Datos.pdb
+F:\Proyecto\Proyecto v5\Datos\Lógica\obj\Debug\Lógica.pdb
+F:\Proyecto\Proyecto v6\Datos\Lógica\bin\Debug\Lógica.dll
+F:\Proyecto\Proyecto v6\Datos\Lógica\bin\Debug\Lógica.pdb
+F:\Proyecto\Proyecto v6\Datos\Lógica\bin\Debug\Datos.dll
+F:\Proyecto\Proyecto v6\Datos\Lógica\bin\Debug\Datos.pdb
+F:\Proyecto\Proyecto v6\Datos\Lógica\obj\Debug\Lógica.csprojResolveAssemblyReference.cache
+F:\Proyecto\Proyecto v6\Datos\Lógica\obj\Debug\Lógica.dll
+F:\Proyecto\Proyecto v6\Datos\Lógica\obj\Debug\Lógica.pdb
+F:\ONCE\Proyectos\Proyecto v7\Proyecto v6\Datos\Lógica\bin\Debug\Lógica.dll
+F:\ONCE\Proyectos\Proyecto v7\Proyecto v6\Datos\Lógica\bin\Debug\Lógica.pdb
+F:\ONCE\Proyectos\Proyecto v7\Proyecto v6\Datos\Lógica\bin\Debug\Datos.dll
+F:\ONCE\Proyectos\Proyecto v7\Proyecto v6\Datos\Lógica\bin\Debug\Datos.pdb
+F:\ONCE\Proyectos\Proyecto v7\Proyecto v6\Datos\Lógica\obj\Debug\Lógica.csprojResolveAssemblyReference.cache
+F:\ONCE\Proyectos\Proyecto v7\Proyecto v6\Datos\Lógica\obj\Debug\Lógica.dll
+F:\ONCE\Proyectos\Proyecto v7\Proyecto v6\Datos\Lógica\obj\Debug\Lógica.pdb
+F:\Proyecto\Proyecto v7\Datos\Lógica\bin\Debug\Lógica.dll
+F:\Proyecto\Proyecto v7\Datos\Lógica\bin\Debug\Lógica.pdb
+F:\Proyecto\Proyecto v7\Datos\Lógica\bin\Debug\Datos.dll
+F:\Proyecto\Proyecto v7\Datos\Lógica\bin\Debug\Datos.pdb
+F:\Proyecto\Proyecto v7\Datos\Lógica\obj\Debug\Lógica.csprojResolveAssemblyReference.cache
+F:\Proyecto\Proyecto v7\Datos\Lógica\obj\Debug\Lógica.dll
+F:\Proyecto\Proyecto v7\Datos\Lógica\obj\Debug\Lógica.pdb
+G:\ONCE\Proyectos\Proyecto v7\Datos\Lógica\bin\Debug\Lógica.dll
+G:\ONCE\Proyectos\Proyecto v7\Datos\Lógica\bin\Debug\Lógica.pdb
+G:\ONCE\Proyectos\Proyecto v7\Datos\Lógica\bin\Debug\Datos.dll
+G:\ONCE\Proyectos\Proyecto v7\Datos\Lógica\bin\Debug\Datos.pdb
+G:\ONCE\Proyectos\Proyecto v7\Datos\Lógica\obj\Debug\Lógica.csprojResolveAssemblyReference.cache
+G:\ONCE\Proyectos\Proyecto v7\Datos\Lógica\obj\Debug\Lógica.dll
+G:\ONCE\Proyectos\Proyecto v7\Datos\Lógica\obj\Debug\Lógica.pdb
+F:\ONCE\Proyectos\Proyecto v7\Datos\Lógica\bin\Debug\Lógica.dll
+F:\ONCE\Proyectos\Proyecto v7\Datos\Lógica\bin\Debug\Lógica.pdb
+F:\ONCE\Proyectos\Proyecto v7\Datos\Lógica\bin\Debug\Datos.dll
+F:\ONCE\Proyectos\Proyecto v7\Datos\Lógica\bin\Debug\Datos.pdb
+F:\ONCE\Proyectos\Proyecto v7\Datos\Lógica\obj\Debug\Lógica.csprojResolveAssemblyReference.cache
+F:\ONCE\Proyectos\Proyecto v7\Datos\Lógica\obj\Debug\Lógica.dll
+F:\ONCE\Proyectos\Proyecto v7\Datos\Lógica\obj\Debug\Lógica.pdb
+G:\Proyecto\Proyecto v8\Proyecto v7\Datos\Lógica\bin\Debug\Lógica.dll
+G:\Proyecto\Proyecto v8\Proyecto v7\Datos\Lógica\bin\Debug\Lógica.pdb
+G:\Proyecto\Proyecto v8\Proyecto v7\Datos\Lógica\bin\Debug\Datos.dll
+G:\Proyecto\Proyecto v8\Proyecto v7\Datos\Lógica\bin\Debug\Datos.pdb
+G:\Proyecto\Proyecto v8\Proyecto v7\Datos\Lógica\obj\Debug\Lógica.csprojResolveAssemblyReference.cache
+G:\Proyecto\Proyecto v8\Proyecto v7\Datos\Lógica\obj\Debug\Lógica.dll
+G:\Proyecto\Proyecto v8\Proyecto v7\Datos\Lógica\obj\Debug\Lógica.pdb
+F:\Proyecto\Proyecto v8\Proyecto v7\Datos\Lógica\bin\Debug\Lógica.dll
+F:\Proyecto\Proyecto v8\Proyecto v7\Datos\Lógica\bin\Debug\Lógica.pdb
+F:\Proyecto\Proyecto v8\Proyecto v7\Datos\Lógica\bin\Debug\Datos.dll
+F:\Proyecto\Proyecto v8\Proyecto v7\Datos\Lógica\bin\Debug\Datos.pdb
+F:\Proyecto\Proyecto v8\Proyecto v7\Datos\Lógica\obj\Debug\Lógica.csprojResolveAssemblyReference.cache
+F:\Proyecto\Proyecto v8\Proyecto v7\Datos\Lógica\obj\Debug\Lógica.dll
+F:\Proyecto\Proyecto v8\Proyecto v7\Datos\Lógica\obj\Debug\Lógica.pdb
+F:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Lógica\bin\Debug\Lógica.dll
+F:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Lógica\bin\Debug\Lógica.pdb
+F:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Lógica\bin\Debug\Datos.dll
+F:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Lógica\bin\Debug\Datos.pdb
+F:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Lógica\obj\Debug\Lógica.csprojResolveAssemblyReference.cache
+F:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Lógica\obj\Debug\Lógica.dll
+F:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Lógica\obj\Debug\Lógica.pdb
+E:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Lógica\bin\Debug\Lógica.dll
+E:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Lógica\bin\Debug\Lógica.pdb
+E:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Lógica\bin\Debug\Datos.dll
+E:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Lógica\bin\Debug\Datos.pdb
+E:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Lógica\obj\Debug\Lógica.csprojResolveAssemblyReference.cache
+E:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Lógica\obj\Debug\Lógica.dll
+E:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Lógica\obj\Debug\Lógica.pdb
+E:\PROYECTOS\PROYECTO V11\proyecto v10\Proyecto 10\proyecto v10\Proyecto v7\Proyecto v7\Datos\Lógica\bin\Debug\Lógica.dll
+E:\PROYECTOS\PROYECTO V11\proyecto v10\Proyecto 10\proyecto v10\Proyecto v7\Proyecto v7\Datos\Lógica\bin\Debug\Lógica.pdb
+E:\PROYECTOS\PROYECTO V11\proyecto v10\Proyecto 10\proyecto v10\Proyecto v7\Proyecto v7\Datos\Lógica\bin\Debug\Datos.dll
+E:\PROYECTOS\PROYECTO V11\proyecto v10\Proyecto 10\proyecto v10\Proyecto v7\Proyecto v7\Datos\Lógica\bin\Debug\Datos.pdb
+E:\PROYECTOS\PROYECTO V11\proyecto v10\Proyecto 10\proyecto v10\Proyecto v7\Proyecto v7\Datos\Lógica\obj\Debug\Lógica.csprojResolveAssemblyReference.cache
+E:\PROYECTOS\PROYECTO V11\proyecto v10\Proyecto 10\proyecto v10\Proyecto v7\Proyecto v7\Datos\Lógica\obj\Debug\Lógica.dll
+E:\PROYECTOS\PROYECTO V11\proyecto v10\Proyecto 10\proyecto v10\Proyecto v7\Proyecto v7\Datos\Lógica\obj\Debug\Lógica.pdb
+E:\PROYECTOS\PROYECTO V11\Ejecutable\Datos\Lógica\bin\Debug\Lógica.dll
+E:\PROYECTOS\PROYECTO V11\Ejecutable\Datos\Lógica\bin\Debug\Lógica.pdb
+E:\PROYECTOS\PROYECTO V11\Ejecutable\Datos\Lógica\bin\Debug\Datos.dll
+E:\PROYECTOS\PROYECTO V11\Ejecutable\Datos\Lógica\bin\Debug\Datos.pdb
+E:\PROYECTOS\PROYECTO V11\Ejecutable\Datos\Lógica\obj\Debug\Lógica.csprojResolveAssemblyReference.cache
+E:\PROYECTOS\PROYECTO V11\Ejecutable\Datos\Lógica\obj\Debug\Lógica.dll
+E:\PROYECTOS\PROYECTO V11\Ejecutable\Datos\Lógica\obj\Debug\Lógica.pdb
+F:\PROYECTOS\Proyecto v12\Ejecutable\Datos\Lógica\bin\Debug\Lógica.dll
+F:\PROYECTOS\Proyecto v12\Ejecutable\Datos\Lógica\bin\Debug\Lógica.pdb
+F:\PROYECTOS\Proyecto v12\Ejecutable\Datos\Lógica\bin\Debug\Datos.dll
+F:\PROYECTOS\Proyecto v12\Ejecutable\Datos\Lógica\bin\Debug\Datos.pdb
+F:\PROYECTOS\Proyecto v12\Ejecutable\Datos\Lógica\obj\Debug\Lógica.csprojResolveAssemblyReference.cache
+F:\PROYECTOS\Proyecto v12\Ejecutable\Datos\Lógica\obj\Debug\Lógica.dll
+F:\PROYECTOS\Proyecto v12\Ejecutable\Datos\Lógica\obj\Debug\Lógica.pdb
+E:\PROYECTOS\Proyecto v13\Ejecutable\Datos\Lógica\bin\Debug\Lógica.dll
+E:\PROYECTOS\Proyecto v13\Ejecutable\Datos\Lógica\bin\Debug\Lógica.pdb
+E:\PROYECTOS\Proyecto v13\Ejecutable\Datos\Lógica\bin\Debug\Datos.dll
+E:\PROYECTOS\Proyecto v13\Ejecutable\Datos\Lógica\bin\Debug\Datos.pdb
+E:\PROYECTOS\Proyecto v13\Ejecutable\Datos\Lógica\obj\Debug\Lógica.csprojResolveAssemblyReference.cache
+E:\PROYECTOS\Proyecto v13\Ejecutable\Datos\Lógica\obj\Debug\Lógica.dll
+E:\PROYECTOS\Proyecto v13\Ejecutable\Datos\Lógica\obj\Debug\Lógica.pdb
+F:\PROYECTOS\Proyecto v13\Ejecutable\Datos\Lógica\bin\Debug\Lógica.dll
+F:\PROYECTOS\Proyecto v13\Ejecutable\Datos\Lógica\bin\Debug\Lógica.pdb
+F:\PROYECTOS\Proyecto v13\Ejecutable\Datos\Lógica\bin\Debug\Datos.dll
+F:\PROYECTOS\Proyecto v13\Ejecutable\Datos\Lógica\bin\Debug\Datos.pdb
+F:\PROYECTOS\Proyecto v13\Ejecutable\Datos\Lógica\obj\Debug\Lógica.csprojResolveAssemblyReference.cache
+F:\PROYECTOS\Proyecto v13\Ejecutable\Datos\Lógica\obj\Debug\Lógica.dll
+F:\PROYECTOS\Proyecto v13\Ejecutable\Datos\Lógica\obj\Debug\Lógica.pdb
+E:\PROYECTOS\PROYECTO_APO\Proyecto v13\Ejecutable\Datos\Lógica\bin\Debug\Lógica.dll
+E:\PROYECTOS\PROYECTO_APO\Proyecto v13\Ejecutable\Datos\Lógica\bin\Debug\Lógica.pdb
+E:\PROYECTOS\PROYECTO_APO\Proyecto v13\Ejecutable\Datos\Lógica\bin\Debug\Datos.dll
+E:\PROYECTOS\PROYECTO_APO\Proyecto v13\Ejecutable\Datos\Lógica\bin\Debug\Datos.pdb
+E:\PROYECTOS\PROYECTO_APO\Proyecto v13\Ejecutable\Datos\Lógica\obj\Debug\Lógica.csprojResolveAssemblyReference.cache
+E:\PROYECTOS\PROYECTO_APO\Proyecto v13\Ejecutable\Datos\Lógica\obj\Debug\Lógica.dll
+E:\PROYECTOS\PROYECTO_APO\Proyecto v13\Ejecutable\Datos\Lógica\obj\Debug\Lógica.pdb
+F:\PROYECTOS\PROYECTO_APO\Proyecto v13\Ejecutable\Datos\Lógica\bin\Debug\Lógica.dll
+F:\PROYECTOS\PROYECTO_APO\Proyecto v13\Ejecutable\Datos\Lógica\bin\Debug\Lógica.pdb
+F:\PROYECTOS\PROYECTO_APO\Proyecto v13\Ejecutable\Datos\Lógica\bin\Debug\Datos.dll
+F:\PROYECTOS\PROYECTO_APO\Proyecto v13\Ejecutable\Datos\Lógica\bin\Debug\Datos.pdb
+F:\PROYECTOS\PROYECTO_APO\Proyecto v13\Ejecutable\Datos\Lógica\obj\Debug\Lógica.csprojResolveAssemblyReference.cache
+F:\PROYECTOS\PROYECTO_APO\Proyecto v13\Ejecutable\Datos\Lógica\obj\Debug\Lógica.dll
+F:\PROYECTOS\PROYECTO_APO\Proyecto v13\Ejecutable\Datos\Lógica\obj\Debug\Lógica.pdb
+F:\Proyecto v13\Ejecutable\Datos\Lógica\bin\Debug\Lógica.dll
+F:\Proyecto v13\Ejecutable\Datos\Lógica\bin\Debug\Lógica.pdb
+F:\Proyecto v13\Ejecutable\Datos\Lógica\bin\Debug\Datos.dll
+F:\Proyecto v13\Ejecutable\Datos\Lógica\bin\Debug\Datos.pdb
+F:\Proyecto v13\Ejecutable\Datos\Lógica\obj\Debug\Lógica.csprojResolveAssemblyReference.cache
+F:\Proyecto v13\Ejecutable\Datos\Lógica\obj\Debug\Lógica.dll
+F:\Proyecto v13\Ejecutable\Datos\Lógica\obj\Debug\Lógica.pdb
+F:\Proyecto\Ejecutable (2)\Ejecutable\Datos\Lógica\bin\Debug\Lógica.dll
+F:\Proyecto\Ejecutable (2)\Ejecutable\Datos\Lógica\bin\Debug\Lógica.pdb
+F:\Proyecto\Ejecutable (2)\Ejecutable\Datos\Lógica\bin\Debug\Datos.dll
+F:\Proyecto\Ejecutable (2)\Ejecutable\Datos\Lógica\bin\Debug\Datos.pdb
+F:\Proyecto\Ejecutable (2)\Ejecutable\Datos\Lógica\obj\Debug\Lógica.csprojResolveAssemblyReference.cache
+F:\Proyecto\Ejecutable (2)\Ejecutable\Datos\Lógica\obj\Debug\Lógica.dll
+F:\Proyecto\Ejecutable (2)\Ejecutable\Datos\Lógica\obj\Debug\Lógica.pdb
+C:\Users\Paula\Documents\PROYECTOS\PROGRAMACION\C#\Proyecto v14\Ejecutable\Datos\Lógica\bin\Debug\Lógica.dll
+C:\Users\Paula\Documents\PROYECTOS\PROGRAMACION\C#\Proyecto v14\Ejecutable\Datos\Lógica\bin\Debug\Lógica.pdb
+C:\Users\Paula\Documents\PROYECTOS\PROGRAMACION\C#\Proyecto v14\Ejecutable\Datos\Lógica\bin\Debug\Datos.dll
+C:\Users\Paula\Documents\PROYECTOS\PROGRAMACION\C#\Proyecto v14\Ejecutable\Datos\Lógica\bin\Debug\Datos.pdb
+C:\Users\Paula\Documents\PROYECTOS\PROGRAMACION\C#\Proyecto v14\Ejecutable\Datos\Lógica\obj\Debug\Lógica.csprojResolveAssemblyReference.cache
+C:\Users\Paula\Documents\PROYECTOS\PROGRAMACION\C#\Proyecto v14\Ejecutable\Datos\Lógica\obj\Debug\Lógica.dll
+C:\Users\Paula\Documents\PROYECTOS\PROGRAMACION\C#\Proyecto v14\Ejecutable\Datos\Lógica\obj\Debug\Lógica.pdb
+G:\Proyectos\Programación\C#\A.P.O\Proyecto v14\Ejecutable\Datos\Lógica\bin\Debug\Lógica.dll
+G:\Proyectos\Programación\C#\A.P.O\Proyecto v14\Ejecutable\Datos\Lógica\bin\Debug\Lógica.pdb
+G:\Proyectos\Programación\C#\A.P.O\Proyecto v14\Ejecutable\Datos\Lógica\bin\Debug\Datos.dll
+G:\Proyectos\Programación\C#\A.P.O\Proyecto v14\Ejecutable\Datos\Lógica\bin\Debug\Datos.pdb
+G:\Proyectos\Programación\C#\A.P.O\Proyecto v14\Ejecutable\Datos\Lógica\obj\Debug\Lógica.csprojResolveAssemblyReference.cache
+G:\Proyectos\Programación\C#\A.P.O\Proyecto v14\Ejecutable\Datos\Lógica\obj\Debug\Lógica.dll
+G:\Proyectos\Programación\C#\A.P.O\Proyecto v14\Ejecutable\Datos\Lógica\obj\Debug\Lógica.pdb

@@ -1,0 +1,1711 @@
+C:\Users\Paula\Desktop\Visual\Datos\Presentación\bin\Debug\Presentación.exe.config
+C:\Users\Paula\Desktop\Visual\Datos\Presentación\bin\Debug\Presentación.exe
+C:\Users\Paula\Desktop\Visual\Datos\Presentación\bin\Debug\Presentación.pdb
+C:\Users\Paula\Desktop\Visual\Datos\Presentación\bin\Debug\Datos.dll
+C:\Users\Paula\Desktop\Visual\Datos\Presentación\bin\Debug\Datos.pdb
+C:\Users\Paula\Desktop\Visual\Datos\Presentación\obj\Debug\Presentación.csprojResolveAssemblyReference.cache
+C:\Users\Paula\Desktop\Visual\Datos\Presentación\obj\Debug\Presentación.Bienvenidos.resources
+C:\Users\Paula\Desktop\Visual\Datos\Presentación\obj\Debug\Presentación.Iniciar_Sesión.resources
+C:\Users\Paula\Desktop\Visual\Datos\Presentación\obj\Debug\Presentación.Properties.Resources.resources
+C:\Users\Paula\Desktop\Visual\Datos\Presentación\obj\Debug\Presentación.csproj.GenerateResource.Cache
+C:\Users\Paula\Desktop\Visual\Datos\Presentación\obj\Debug\Presentación.exe
+C:\Users\Paula\Desktop\Visual\Datos\Presentación\obj\Debug\Presentación.pdb
+E:\Proyecto\Datos\Presentación\bin\Debug\Presentación.exe.config
+E:\Proyecto\Datos\Presentación\obj\Debug\Presentación.exe
+E:\Proyecto\Datos\Presentación\obj\Debug\Presentación.pdb
+E:\Proyecto\Datos\Presentación\bin\Debug\Presentación.exe
+E:\Proyecto\Datos\Presentación\bin\Debug\Presentación.pdb
+E:\Proyecto\Datos\Presentación\obj\Debug\Presentación.csprojResolveAssemblyReference.cache
+E:\Proyecto\Datos\Presentación\obj\Debug\Presentación.Bienvenidos.resources
+E:\Proyecto\Datos\Presentación\obj\Debug\Presentación.Iniciar_Sesión.resources
+E:\Proyecto\Datos\Presentación\obj\Debug\Presentación.Properties.Resources.resources
+E:\Proyecto\Datos\Presentación\obj\Debug\Presentación.csproj.GenerateResource.Cache
+E:\Proyecto\Proyecto\Datos\Presentación\bin\Debug\Presentación.exe.config
+E:\Proyecto\Proyecto\Datos\Presentación\obj\Debug\Presentación.exe
+E:\Proyecto\Proyecto\Datos\Presentación\obj\Debug\Presentación.pdb
+E:\Proyecto\Visual\Proyecto\Datos\Presentación\bin\Debug\Presentación.exe.config
+E:\Proyecto\Visual\Proyecto\Datos\Presentación\obj\Debug\Presentación.exe
+E:\Proyecto\Visual\Proyecto\Datos\Presentación\obj\Debug\Presentación.pdb
+E:\Proyecto\Visual\Proyecto\Datos\Presentación\bin\Debug\Presentación.exe
+E:\Proyecto\Visual\Proyecto\Datos\Presentación\bin\Debug\Presentación.pdb
+E:\Proyecto\Visual\Proyecto\Datos\Presentación\obj\Debug\Presentación.csprojResolveAssemblyReference.cache
+E:\Proyecto\Visual\Proyecto\Datos\Presentación\obj\Debug\Presentación.Bienvenidos.resources
+E:\Proyecto\Visual\Proyecto\Datos\Presentación\obj\Debug\Presentación.Iniciar_Sesión.resources
+E:\Proyecto\Visual\Proyecto\Datos\Presentación\obj\Debug\Presentación.Properties.Resources.resources
+E:\Proyecto\Visual\Proyecto\Datos\Presentación\obj\Debug\Presentación.csproj.GenerateResource.Cache
+E:\Proyecto\Visual\Proyecto\Datos\Presentación\obj\Debug\Presentación.Menu_Principal.resources
+E:\Proyecto\Visual\Proyecto\Datos\Presentación\obj\Debug\Presentación.Inventario.resources
+E:\Proyecto\Visual\Proyecto\Datos\Presentación\obj\Debug\Presentación.Productos.resources
+E:\Proyecto\Visual\Proyecto\Datos\Presentación\obj\Debug\Presentación.Compras.resources
+E:\Proyecto\Visual\Proyecto\Datos\Presentación\obj\Debug\Presentación.Ventas.resources
+E:\Proyecto\Visual\Proyecto\Datos\Presentación\obj\Debug\Presentación.Mensaje_bienvenidos.resources
+E:\Proyecto\Visual\Proyecto\Datos\Presentación\obj\Debug\Presentación.Clientes.resources
+E:\Proyecto\Visual\Proyecto\Datos\Presentación\obj\Debug\Presentación.Empleados.resources
+E:\Proyecto\Visual\Proyecto\Datos\Presentación\obj\Debug\Presentación.Garantías.resources
+E:\Proyecto\Visual\Proyecto\Datos\Presentación\obj\Debug\Presentación.Proveedores.resources
+E:\Proyecto\Visual\Proyecto\Datos\Presentación\obj\Debug\Presentación.Usuarios.resources
+F:\Proyecto\Visual\Proyecto\Datos\Presentación\bin\Debug\Presentación.exe.config
+F:\Proyecto\Visual\Proyecto\Datos\Presentación\obj\Debug\Presentación.exe
+F:\Proyecto\Visual\Proyecto\Datos\Presentación\obj\Debug\Presentación.pdb
+F:\Proyecto\Visual\Proyecto\Datos\Presentación\bin\Debug\Presentación.exe
+F:\Proyecto\Visual\Proyecto\Datos\Presentación\bin\Debug\Presentación.pdb
+F:\Proyecto\Visual\Proyecto\Datos\Presentación\obj\Debug\Presentación.csprojResolveAssemblyReference.cache
+F:\Proyecto\Visual\Proyecto\Datos\Presentación\obj\Debug\Presentación.Bienvenidos.resources
+F:\Proyecto\Visual\Proyecto\Datos\Presentación\obj\Debug\Presentación.Clientes.resources
+F:\Proyecto\Visual\Proyecto\Datos\Presentación\obj\Debug\Presentación.Compras.resources
+F:\Proyecto\Visual\Proyecto\Datos\Presentación\obj\Debug\Presentación.Empleados.resources
+F:\Proyecto\Visual\Proyecto\Datos\Presentación\obj\Debug\Presentación.Garantías.resources
+F:\Proyecto\Visual\Proyecto\Datos\Presentación\obj\Debug\Presentación.Iniciar_Sesión.resources
+F:\Proyecto\Visual\Proyecto\Datos\Presentación\obj\Debug\Presentación.Inventario.resources
+F:\Proyecto\Visual\Proyecto\Datos\Presentación\obj\Debug\Presentación.Mensaje_bienvenidos.resources
+F:\Proyecto\Visual\Proyecto\Datos\Presentación\obj\Debug\Presentación.Menu_Principal.resources
+F:\Proyecto\Visual\Proyecto\Datos\Presentación\obj\Debug\Presentación.Productos.resources
+F:\Proyecto\Visual\Proyecto\Datos\Presentación\obj\Debug\Presentación.Properties.Resources.resources
+F:\Proyecto\Visual\Proyecto\Datos\Presentación\obj\Debug\Presentación.Proveedores.resources
+F:\Proyecto\Visual\Proyecto\Datos\Presentación\obj\Debug\Presentación.Usuarios.resources
+F:\Proyecto\Visual\Proyecto\Datos\Presentación\obj\Debug\Presentación.Ventas.resources
+F:\Proyecto\Visual\Proyecto\Datos\Presentación\obj\Debug\Presentación.csproj.GenerateResource.Cache
+E:\Proyecto\Visual\Proyecto\Datos\Presentación\bin\Debug\Lógica.dll
+E:\Proyecto\Visual\Proyecto\Datos\Presentación\bin\Debug\Lógica.pdb
+G:\Proyecto\Visual\Proyecto\Datos\Presentación\bin\Debug\Presentación.exe.config
+G:\Proyecto\Visual\Proyecto\Datos\Presentación\obj\Debug\Presentación.exe
+G:\Proyecto\Visual\Proyecto\Datos\Presentación\obj\Debug\Presentación.pdb
+F:\Proyecto\Visual\Proyecto\Datos\Presentación\bin\Debug\Lógica.dll
+F:\Proyecto\Visual\Proyecto\Datos\Presentación\bin\Debug\Lógica.pdb
+F:\Proyecto\Datos\Presentación\bin\Debug\Presentación.exe.config
+F:\Proyecto\Datos\Presentación\obj\Debug\Presentación.exe
+F:\Proyecto\Datos\Presentación\obj\Debug\Presentación.pdb
+E:\Proyecto\Visual\Proyecto\Datos\Presentación\obj\Debug\Presentación.Bodega.resources
+E:\Proyecto\Visual\Proyecto\Datos\Presentación\obj\Debug\Presentación.Estado.resources
+E:\Proyecto\Visual\Proyecto\Datos\Presentación\obj\Debug\Presentación.Tipo_presentacion.resources
+E:\Proyecto\Visual\Proyecto\Datos\Presentación\obj\Debug\Presentación.Cargo.resources
+E:\Proyecto\Visual\Proyecto\Datos\Presentación\obj\Debug\Presentación.Contrato.resources
+E:\Proyecto\Visual\Proyecto\Datos\Presentación\obj\Debug\Presentación.Devolucion_producto.resources
+E:\Proyecto\Visual\Proyecto\Datos\Presentación\obj\Debug\Presentación.Forma_pago.resources
+C:\Users\ALUMNOS\Documents\MMMMMM\Proyecto\Datos\Presentación\bin\Debug\Presentación.exe.config
+C:\Users\ALUMNOS\Documents\MMMMMM\Proyecto\Datos\Presentación\obj\Debug\Presentación.exe
+C:\Users\ALUMNOS\Documents\MMMMMM\Proyecto\Datos\Presentación\obj\Debug\Presentación.pdb
+C:\Users\ALUMNOS\Documents\MMMMMM\Proyecto\Datos\Presentación\obj\Debug\Presentación.csprojResolveAssemblyReference.cache
+C:\Users\ALUMNOS\Documents\MMMMMM\Proyecto\Datos\Presentación\obj\Debug\Presentación.Bienvenidos.resources
+C:\Users\ALUMNOS\Documents\MMMMMM\Proyecto\Datos\Presentación\obj\Debug\Presentación.Bodega.resources
+C:\Users\ALUMNOS\Documents\MMMMMM\Proyecto\Datos\Presentación\obj\Debug\Presentación.Cargo.resources
+C:\Users\ALUMNOS\Documents\MMMMMM\Proyecto\Datos\Presentación\obj\Debug\Presentación.Clientes.resources
+C:\Users\ALUMNOS\Documents\MMMMMM\Proyecto\Datos\Presentación\obj\Debug\Presentación.Compras.resources
+C:\Users\ALUMNOS\Documents\MMMMMM\Proyecto\Datos\Presentación\obj\Debug\Presentación.Contrato.resources
+C:\Users\ALUMNOS\Documents\MMMMMM\Proyecto\Datos\Presentación\obj\Debug\Presentación.Devolucion_producto.resources
+C:\Users\ALUMNOS\Documents\MMMMMM\Proyecto\Datos\Presentación\obj\Debug\Presentación.Empleados.resources
+C:\Users\ALUMNOS\Documents\MMMMMM\Proyecto\Datos\Presentación\obj\Debug\Presentación.Estado.resources
+C:\Users\ALUMNOS\Documents\MMMMMM\Proyecto\Datos\Presentación\obj\Debug\Presentación.Forma_pago.resources
+C:\Users\ALUMNOS\Documents\MMMMMM\Proyecto\Datos\Presentación\obj\Debug\Presentación.Garantías.resources
+C:\Users\ALUMNOS\Documents\MMMMMM\Proyecto\Datos\Presentación\obj\Debug\Presentación.Iniciar_Sesión.resources
+C:\Users\ALUMNOS\Documents\MMMMMM\Proyecto\Datos\Presentación\obj\Debug\Presentación.Inventario.resources
+C:\Users\ALUMNOS\Documents\MMMMMM\Proyecto\Datos\Presentación\obj\Debug\Presentación.Mensaje_bienvenidos.resources
+C:\Users\ALUMNOS\Documents\MMMMMM\Proyecto\Datos\Presentación\obj\Debug\Presentación.Menu_Principal.resources
+C:\Users\ALUMNOS\Documents\MMMMMM\Proyecto\Datos\Presentación\obj\Debug\Presentación.Productos.resources
+C:\Users\ALUMNOS\Documents\MMMMMM\Proyecto\Datos\Presentación\obj\Debug\Presentación.Properties.Resources.resources
+C:\Users\ALUMNOS\Documents\MMMMMM\Proyecto\Datos\Presentación\obj\Debug\Presentación.Proveedores.resources
+C:\Users\ALUMNOS\Documents\MMMMMM\Proyecto\Datos\Presentación\obj\Debug\Presentación.Tipo_presentacion.resources
+C:\Users\ALUMNOS\Documents\MMMMMM\Proyecto\Datos\Presentación\obj\Debug\Presentación.Usuarios.resources
+C:\Users\ALUMNOS\Documents\MMMMMM\Proyecto\Datos\Presentación\obj\Debug\Presentación.Ventas.resources
+C:\Users\ALUMNOS\Documents\MMMMMM\Proyecto\Datos\Presentación\obj\Debug\Presentación.csproj.GenerateResource.Cache
+C:\Users\ALUMNOS\Documents\MMMMMM\Proyecto\Datos\Presentación\bin\Debug\Presentación.exe
+C:\Users\ALUMNOS\Documents\MMMMMM\Proyecto\Datos\Presentación\bin\Debug\Presentación.pdb
+C:\Users\ALUMNOS\Documents\MMMMMM\Proyecto\Datos\Presentación\bin\Debug\Lógica.dll
+C:\Users\ALUMNOS\Documents\MMMMMM\Proyecto\Datos\Presentación\bin\Debug\Lógica.pdb
+E:\Files\Proyecto\Visual\Proyecto\Datos\Presentación\bin\Debug\Presentación.exe.config
+E:\Files\Proyecto\Visual\Proyecto\Datos\Presentación\obj\Debug\Presentación.exe
+E:\Files\Proyecto\Visual\Proyecto\Datos\Presentación\obj\Debug\Presentación.pdb
+F:\Proyecto\Visual\Proyecto\Datos\Presentación\obj\Debug\Presentación.Bodega.resources
+F:\Proyecto\Visual\Proyecto\Datos\Presentación\obj\Debug\Presentación.Cargo.resources
+F:\Proyecto\Visual\Proyecto\Datos\Presentación\obj\Debug\Presentación.Contrato.resources
+F:\Proyecto\Visual\Proyecto\Datos\Presentación\obj\Debug\Presentación.Devolucion_producto.resources
+F:\Proyecto\Visual\Proyecto\Datos\Presentación\obj\Debug\Presentación.Estado.resources
+F:\Proyecto\Visual\Proyecto\Datos\Presentación\obj\Debug\Presentación.Forma_pago.resources
+F:\Proyecto\Visual\Proyecto\Datos\Presentación\obj\Debug\Presentación.Tipo_presentacion.resources
+F:\222222\Proyecto\Datos\Presentación\bin\Debug\Presentación.exe.config
+F:\222222\Proyecto\Datos\Presentación\obj\Debug\Presentación.exe
+F:\222222\Proyecto\Datos\Presentación\obj\Debug\Presentación.pdb
+F:\222222\Proyecto\Datos\Presentación\bin\Debug\Presentación.exe
+F:\222222\Proyecto\Datos\Presentación\bin\Debug\Presentación.pdb
+F:\222222\Proyecto\Datos\Presentación\bin\Debug\Lógica.dll
+F:\222222\Proyecto\Datos\Presentación\bin\Debug\Lógica.pdb
+F:\222222\Proyecto\Datos\Presentación\obj\Debug\Presentación.csprojResolveAssemblyReference.cache
+F:\222222\Proyecto\Datos\Presentación\obj\Debug\Presentación.Bienvenidos.resources
+F:\222222\Proyecto\Datos\Presentación\obj\Debug\Presentación.Bodega.resources
+F:\222222\Proyecto\Datos\Presentación\obj\Debug\Presentación.Cargo.resources
+F:\222222\Proyecto\Datos\Presentación\obj\Debug\Presentación.Clientes.resources
+F:\222222\Proyecto\Datos\Presentación\obj\Debug\Presentación.Compras.resources
+F:\222222\Proyecto\Datos\Presentación\obj\Debug\Presentación.Contrato.resources
+F:\222222\Proyecto\Datos\Presentación\obj\Debug\Presentación.Devolucion_producto.resources
+F:\222222\Proyecto\Datos\Presentación\obj\Debug\Presentación.Empleados.resources
+F:\222222\Proyecto\Datos\Presentación\obj\Debug\Presentación.Estado.resources
+F:\222222\Proyecto\Datos\Presentación\obj\Debug\Presentación.Forma_pago.resources
+F:\222222\Proyecto\Datos\Presentación\obj\Debug\Presentación.Garantías.resources
+F:\222222\Proyecto\Datos\Presentación\obj\Debug\Presentación.Iniciar_Sesión.resources
+F:\222222\Proyecto\Datos\Presentación\obj\Debug\Presentación.Inventario.resources
+F:\222222\Proyecto\Datos\Presentación\obj\Debug\Presentación.Mensaje_bienvenidos.resources
+F:\222222\Proyecto\Datos\Presentación\obj\Debug\Presentación.Menu_Principal.resources
+F:\222222\Proyecto\Datos\Presentación\obj\Debug\Presentación.Productos.resources
+F:\222222\Proyecto\Datos\Presentación\obj\Debug\Presentación.Properties.Resources.resources
+F:\222222\Proyecto\Datos\Presentación\obj\Debug\Presentación.Proveedores.resources
+F:\222222\Proyecto\Datos\Presentación\obj\Debug\Presentación.Tipo_presentacion.resources
+F:\222222\Proyecto\Datos\Presentación\obj\Debug\Presentación.Usuarios.resources
+F:\222222\Proyecto\Datos\Presentación\obj\Debug\Presentación.Ventas.resources
+F:\222222\Proyecto\Datos\Presentación\obj\Debug\Presentación.csproj.GenerateResource.Cache
+F:\PROYECTO\Proyecto\Datos\Presentación\bin\Debug\Presentación.exe.config
+F:\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.exe
+F:\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.pdb
+F:\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.csprojResolveAssemblyReference.cache
+F:\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Bienvenidos.resources
+F:\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Bodega.resources
+F:\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Cargo.resources
+F:\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Clientes.resources
+F:\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Compras.resources
+F:\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Contrato.resources
+F:\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Devolucion_producto.resources
+F:\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Empleados.resources
+F:\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Estado.resources
+F:\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Forma_pago.resources
+F:\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Garantías.resources
+F:\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Iniciar_Sesión.resources
+F:\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Inventario.resources
+F:\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Mensaje_bienvenidos.resources
+F:\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Menu_Principal.resources
+F:\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Productos.resources
+F:\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Properties.Resources.resources
+F:\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Proveedores.resources
+F:\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Tipo_presentacion.resources
+F:\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Usuarios.resources
+F:\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Ventas.resources
+F:\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.csproj.GenerateResource.Cache
+F:\PROYECTO\Proyecto\Datos\Presentación\bin\Debug\Presentación.exe
+F:\PROYECTO\Proyecto\Datos\Presentación\bin\Debug\Presentación.pdb
+F:\PROYECTO\Proyecto\Datos\Presentación\bin\Debug\Lógica.dll
+F:\PROYECTO\Proyecto\Datos\Presentación\bin\Debug\Lógica.pdb
+E:\ORIGINAL PROYECTO\Proyecto\Datos\Presentación\bin\Debug\Presentación.exe.config
+E:\ORIGINAL PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.exe
+E:\ORIGINAL PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.pdb
+E:\ORIGINAL PROYECTO\Proyecto\Datos\Presentación\bin\Debug\Presentación.exe
+E:\ORIGINAL PROYECTO\Proyecto\Datos\Presentación\bin\Debug\Presentación.pdb
+E:\ORIGINAL PROYECTO\Proyecto\Datos\Presentación\bin\Debug\Lógica.dll
+E:\ORIGINAL PROYECTO\Proyecto\Datos\Presentación\bin\Debug\Lógica.pdb
+E:\ORIGINAL PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.csprojResolveAssemblyReference.cache
+E:\ORIGINAL PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Bienvenidos.resources
+E:\ORIGINAL PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Bodega.resources
+E:\ORIGINAL PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Cargo.resources
+E:\ORIGINAL PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Clientes.resources
+E:\ORIGINAL PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Compras.resources
+E:\ORIGINAL PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Contrato.resources
+E:\ORIGINAL PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Devolucion_producto.resources
+E:\ORIGINAL PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Empleados.resources
+E:\ORIGINAL PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Estado.resources
+E:\ORIGINAL PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Forma_pago.resources
+E:\ORIGINAL PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Garantías.resources
+E:\ORIGINAL PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Iniciar_Sesión.resources
+E:\ORIGINAL PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Inventario.resources
+E:\ORIGINAL PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Menu_Principal.resources
+E:\ORIGINAL PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Productos.resources
+E:\ORIGINAL PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Properties.Resources.resources
+E:\ORIGINAL PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Proveedores.resources
+E:\ORIGINAL PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Tipo_presentacion.resources
+E:\ORIGINAL PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Usuarios.resources
+E:\ORIGINAL PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Ventas.resources
+E:\ORIGINAL PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.csproj.GenerateResource.Cache
+F:\ORIGINAL PROYECTO\Proyecto\Datos\Presentación\bin\Debug\Presentación.exe.config
+F:\ORIGINAL PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.exe
+F:\ORIGINAL PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.pdb
+F:\ORIGINAL PROYECTO\Proyecto\Datos\Presentación\bin\Debug\Presentación.exe
+F:\ORIGINAL PROYECTO\Proyecto\Datos\Presentación\bin\Debug\Presentación.pdb
+F:\ORIGINAL PROYECTO\Proyecto\Datos\Presentación\bin\Debug\Lógica.dll
+F:\ORIGINAL PROYECTO\Proyecto\Datos\Presentación\bin\Debug\Lógica.pdb
+F:\ORIGINAL PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.csprojResolveAssemblyReference.cache
+F:\ORIGINAL PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Bienvenidos.resources
+F:\ORIGINAL PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Bodega.resources
+F:\ORIGINAL PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Cargo.resources
+F:\ORIGINAL PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Clientes.resources
+F:\ORIGINAL PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Compras.resources
+F:\ORIGINAL PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Contrato.resources
+F:\ORIGINAL PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Devolucion_producto.resources
+F:\ORIGINAL PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Empleados.resources
+F:\ORIGINAL PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Estado.resources
+F:\ORIGINAL PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Forma_pago.resources
+F:\ORIGINAL PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Garantías.resources
+F:\ORIGINAL PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Iniciar_Sesión.resources
+F:\ORIGINAL PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Inventario.resources
+F:\ORIGINAL PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Menu_Principal.resources
+F:\ORIGINAL PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Productos.resources
+F:\ORIGINAL PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Properties.Resources.resources
+F:\ORIGINAL PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Proveedores.resources
+F:\ORIGINAL PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Tipo_presentacion.resources
+F:\ORIGINAL PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Usuarios.resources
+F:\ORIGINAL PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Ventas.resources
+F:\ORIGINAL PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.csproj.GenerateResource.Cache
+F:\PROYECTO1\ORIGINAL PROYECTO\Proyecto\Datos\Presentación\bin\Debug\Presentación.exe.config
+F:\PROYECTO1\ORIGINAL PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.exe
+F:\PROYECTO1\ORIGINAL PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.pdb
+F:\PROYECTO1\ORIGINAL PROYECTO\Proyecto\Datos\Presentación\bin\Debug\Presentación.exe
+F:\PROYECTO1\ORIGINAL PROYECTO\Proyecto\Datos\Presentación\bin\Debug\Presentación.pdb
+F:\PROYECTO1\ORIGINAL PROYECTO\Proyecto\Datos\Presentación\bin\Debug\Lógica.dll
+F:\PROYECTO1\ORIGINAL PROYECTO\Proyecto\Datos\Presentación\bin\Debug\Lógica.pdb
+F:\PROYECTO1\ORIGINAL PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.csprojResolveAssemblyReference.cache
+F:\PROYECTO1\ORIGINAL PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Bienvenidos.resources
+F:\PROYECTO1\ORIGINAL PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Bodega.resources
+F:\PROYECTO1\ORIGINAL PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Cargo.resources
+F:\PROYECTO1\ORIGINAL PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Clientes.resources
+F:\PROYECTO1\ORIGINAL PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Compras.resources
+F:\PROYECTO1\ORIGINAL PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Contrato.resources
+F:\PROYECTO1\ORIGINAL PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Devolucion_producto.resources
+F:\PROYECTO1\ORIGINAL PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Empleados.resources
+F:\PROYECTO1\ORIGINAL PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Estado.resources
+F:\PROYECTO1\ORIGINAL PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Forma_pago.resources
+F:\PROYECTO1\ORIGINAL PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Garantías.resources
+F:\PROYECTO1\ORIGINAL PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Iniciar_Sesión.resources
+F:\PROYECTO1\ORIGINAL PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Inventario.resources
+F:\PROYECTO1\ORIGINAL PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Menu_Principal.resources
+F:\PROYECTO1\ORIGINAL PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Productos.resources
+F:\PROYECTO1\ORIGINAL PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Properties.Resources.resources
+F:\PROYECTO1\ORIGINAL PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Proveedores.resources
+F:\PROYECTO1\ORIGINAL PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Tipo_presentacion.resources
+F:\PROYECTO1\ORIGINAL PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Usuarios.resources
+F:\PROYECTO1\ORIGINAL PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Ventas.resources
+F:\PROYECTO1\ORIGINAL PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.csproj.GenerateResource.Cache
+F:\PROYECTO1\ORIGINAL PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Mensaje_bienvenidos.resources
+F:\PROYECTO1\ORIGINAL PROYECTO\Proyecto\Datos\Presentación\bin\Debug\MetroFramework.Design.dll
+F:\PROYECTO1\ORIGINAL PROYECTO\Proyecto\Datos\Presentación\bin\Debug\MetroFramework.dll
+F:\PROYECTO1\ORIGINAL PROYECTO\Proyecto\Datos\Presentación\bin\Debug\MetroFramework.Fonts.dll
+G:\Proyecto\Datos\Presentación\bin\Debug\Presentación.exe.config
+G:\Proyecto\Datos\Presentación\obj\Debug\Presentación.exe
+G:\Proyecto\Datos\Presentación\obj\Debug\Presentación.pdb
+G:\Proyecto\Datos\Presentación\bin\Debug\Presentación.exe
+G:\Proyecto\Datos\Presentación\bin\Debug\Presentación.pdb
+G:\Proyecto\Datos\Presentación\bin\Debug\Lógica.dll
+G:\Proyecto\Datos\Presentación\bin\Debug\MetroFramework.Design.dll
+G:\Proyecto\Datos\Presentación\bin\Debug\MetroFramework.dll
+G:\Proyecto\Datos\Presentación\bin\Debug\MetroFramework.Fonts.dll
+G:\Proyecto\Datos\Presentación\bin\Debug\Lógica.pdb
+G:\Proyecto\Datos\Presentación\obj\Debug\Presentación.csprojResolveAssemblyReference.cache
+G:\Proyecto\Datos\Presentación\obj\Debug\Presentación.Bienvenidos.resources
+G:\Proyecto\Datos\Presentación\obj\Debug\Presentación.Bodega.resources
+G:\Proyecto\Datos\Presentación\obj\Debug\Presentación.Cargo.resources
+G:\Proyecto\Datos\Presentación\obj\Debug\Presentación.Clientes.resources
+G:\Proyecto\Datos\Presentación\obj\Debug\Presentación.Compras.resources
+G:\Proyecto\Datos\Presentación\obj\Debug\Presentación.Contrato.resources
+G:\Proyecto\Datos\Presentación\obj\Debug\Presentación.Devolucion_producto.resources
+G:\Proyecto\Datos\Presentación\obj\Debug\Presentación.Empleados.resources
+G:\Proyecto\Datos\Presentación\obj\Debug\Presentación.Estado.resources
+G:\Proyecto\Datos\Presentación\obj\Debug\Presentación.Forma_pago.resources
+G:\Proyecto\Datos\Presentación\obj\Debug\Presentación.Garantías.resources
+G:\Proyecto\Datos\Presentación\obj\Debug\Presentación.Iniciar_Sesión.resources
+G:\Proyecto\Datos\Presentación\obj\Debug\Presentación.Inventario.resources
+G:\Proyecto\Datos\Presentación\obj\Debug\Presentación.Mensaje_bienvenidos.resources
+G:\Proyecto\Datos\Presentación\obj\Debug\Presentación.Menu_Principal.resources
+G:\Proyecto\Datos\Presentación\obj\Debug\Presentación.Productos.resources
+G:\Proyecto\Datos\Presentación\obj\Debug\Presentación.Properties.Resources.resources
+G:\Proyecto\Datos\Presentación\obj\Debug\Presentación.Proveedores.resources
+G:\Proyecto\Datos\Presentación\obj\Debug\Presentación.Tipo_presentacion.resources
+G:\Proyecto\Datos\Presentación\obj\Debug\Presentación.Usuarios.resources
+G:\Proyecto\Datos\Presentación\obj\Debug\Presentación.Ventas.resources
+G:\Proyecto\Datos\Presentación\obj\Debug\Presentación.csproj.GenerateResource.Cache
+E:\Proyecto\Datos\Presentación\bin\Debug\Lógica.dll
+E:\Proyecto\Datos\Presentación\bin\Debug\Lógica.pdb
+E:\Proyecto\Datos\Presentación\obj\Debug\Presentación.Bodega.resources
+E:\Proyecto\Datos\Presentación\obj\Debug\Presentación.Cargo.resources
+E:\Proyecto\Datos\Presentación\obj\Debug\Presentación.Clientes.resources
+E:\Proyecto\Datos\Presentación\obj\Debug\Presentación.Compras.resources
+E:\Proyecto\Datos\Presentación\obj\Debug\Presentación.Contrato.resources
+E:\Proyecto\Datos\Presentación\obj\Debug\Presentación.Devolucion_producto.resources
+E:\Proyecto\Datos\Presentación\obj\Debug\Presentación.Empleados.resources
+E:\Proyecto\Datos\Presentación\obj\Debug\Presentación.Estado.resources
+E:\Proyecto\Datos\Presentación\obj\Debug\Presentación.Forma_pago.resources
+E:\Proyecto\Datos\Presentación\obj\Debug\Presentación.Garantías.resources
+E:\Proyecto\Datos\Presentación\obj\Debug\Presentación.Inventario.resources
+E:\Proyecto\Datos\Presentación\obj\Debug\Presentación.Mensaje_bienvenidos.resources
+E:\Proyecto\Datos\Presentación\obj\Debug\Presentación.Menu_Principal.resources
+E:\Proyecto\Datos\Presentación\obj\Debug\Presentación.Productos.resources
+E:\Proyecto\Datos\Presentación\obj\Debug\Presentación.Proveedores.resources
+E:\Proyecto\Datos\Presentación\obj\Debug\Presentación.Tipo_presentacion.resources
+E:\Proyecto\Datos\Presentación\obj\Debug\Presentación.Usuarios.resources
+E:\Proyecto\Datos\Presentación\obj\Debug\Presentación.Ventas.resources
+E:\Proyecto\Datos\Presentación\bin\Debug\Bunifu_UI_v1.5.3.dll
+F:\Proyecto\Datos\Presentación\bin\Debug\Presentación.exe
+F:\Proyecto\Datos\Presentación\bin\Debug\Presentación.pdb
+F:\Proyecto\Datos\Presentación\bin\Debug\Bunifu_UI_v1.5.3.dll
+F:\Proyecto\Datos\Presentación\bin\Debug\Lógica.dll
+F:\Proyecto\Datos\Presentación\bin\Debug\Lógica.pdb
+F:\Proyecto\Datos\Presentación\obj\Debug\Presentación.csprojResolveAssemblyReference.cache
+F:\Proyecto\Datos\Presentación\obj\Debug\Presentación.Bienvenidos.resources
+F:\Proyecto\Datos\Presentación\obj\Debug\Presentación.Bodega.resources
+F:\Proyecto\Datos\Presentación\obj\Debug\Presentación.Cargo.resources
+F:\Proyecto\Datos\Presentación\obj\Debug\Presentación.Clientes.resources
+F:\Proyecto\Datos\Presentación\obj\Debug\Presentación.Compras.resources
+F:\Proyecto\Datos\Presentación\obj\Debug\Presentación.Contrato.resources
+F:\Proyecto\Datos\Presentación\obj\Debug\Presentación.Devolucion_producto.resources
+F:\Proyecto\Datos\Presentación\obj\Debug\Presentación.Empleados.resources
+F:\Proyecto\Datos\Presentación\obj\Debug\Presentación.Estado.resources
+F:\Proyecto\Datos\Presentación\obj\Debug\Presentación.Forma_pago.resources
+F:\Proyecto\Datos\Presentación\obj\Debug\Presentación.Garantías.resources
+F:\Proyecto\Datos\Presentación\obj\Debug\Presentación.Iniciar_Sesión.resources
+F:\Proyecto\Datos\Presentación\obj\Debug\Presentación.Inventario.resources
+F:\Proyecto\Datos\Presentación\obj\Debug\Presentación.Mensaje_bienvenidos.resources
+F:\Proyecto\Datos\Presentación\obj\Debug\Presentación.Menu_Principal.resources
+F:\Proyecto\Datos\Presentación\obj\Debug\Presentación.Productos.resources
+F:\Proyecto\Datos\Presentación\obj\Debug\Presentación.Properties.Resources.resources
+F:\Proyecto\Datos\Presentación\obj\Debug\Presentación.Proveedores.resources
+F:\Proyecto\Datos\Presentación\obj\Debug\Presentación.Tipo_presentacion.resources
+F:\Proyecto\Datos\Presentación\obj\Debug\Presentación.Usuarios.resources
+F:\Proyecto\Datos\Presentación\obj\Debug\Presentación.Ventas.resources
+F:\Proyecto\Datos\Presentación\obj\Debug\Presentación.csproj.GenerateResource.Cache
+G:\Proyecto\Datos\Presentación\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\ALUMNOS\Desktop\SEGUNDA REVISON\Proyecto\Datos\Presentación\bin\Debug\Presentación.exe.config
+C:\Users\ALUMNOS\Desktop\SEGUNDA REVISON\Proyecto\Datos\Presentación\obj\Debug\Presentación.exe
+C:\Users\ALUMNOS\Desktop\SEGUNDA REVISON\Proyecto\Datos\Presentación\obj\Debug\Presentación.pdb
+C:\Users\ALUMNOS\Desktop\SEGUNDA REVISON\Proyecto\Datos\Presentación\bin\Debug\Presentación.exe
+C:\Users\ALUMNOS\Desktop\SEGUNDA REVISON\Proyecto\Datos\Presentación\bin\Debug\Presentación.pdb
+C:\Users\ALUMNOS\Desktop\SEGUNDA REVISON\Proyecto\Datos\Presentación\bin\Debug\Lógica.dll
+C:\Users\ALUMNOS\Desktop\SEGUNDA REVISON\Proyecto\Datos\Presentación\bin\Debug\Lógica.pdb
+C:\Users\ALUMNOS\Desktop\SEGUNDA REVISON\Proyecto\Datos\Presentación\obj\Debug\Presentación.csprojResolveAssemblyReference.cache
+C:\Users\ALUMNOS\Desktop\SEGUNDA REVISON\Proyecto\Datos\Presentación\obj\Debug\Presentación.Bienvenidos.resources
+C:\Users\ALUMNOS\Desktop\SEGUNDA REVISON\Proyecto\Datos\Presentación\obj\Debug\Presentación.Bodega.resources
+C:\Users\ALUMNOS\Desktop\SEGUNDA REVISON\Proyecto\Datos\Presentación\obj\Debug\Presentación.Cargo.resources
+C:\Users\ALUMNOS\Desktop\SEGUNDA REVISON\Proyecto\Datos\Presentación\obj\Debug\Presentación.Clientes.resources
+C:\Users\ALUMNOS\Desktop\SEGUNDA REVISON\Proyecto\Datos\Presentación\obj\Debug\Presentación.Compras.resources
+C:\Users\ALUMNOS\Desktop\SEGUNDA REVISON\Proyecto\Datos\Presentación\obj\Debug\Presentación.Contrato.resources
+C:\Users\ALUMNOS\Desktop\SEGUNDA REVISON\Proyecto\Datos\Presentación\obj\Debug\Presentación.Devolucion_producto.resources
+C:\Users\ALUMNOS\Desktop\SEGUNDA REVISON\Proyecto\Datos\Presentación\obj\Debug\Presentación.Empleados.resources
+C:\Users\ALUMNOS\Desktop\SEGUNDA REVISON\Proyecto\Datos\Presentación\obj\Debug\Presentación.Estado.resources
+C:\Users\ALUMNOS\Desktop\SEGUNDA REVISON\Proyecto\Datos\Presentación\obj\Debug\Presentación.Menu_dos.resources
+C:\Users\ALUMNOS\Desktop\SEGUNDA REVISON\Proyecto\Datos\Presentación\obj\Debug\Presentación.Forma_pago.resources
+C:\Users\ALUMNOS\Desktop\SEGUNDA REVISON\Proyecto\Datos\Presentación\obj\Debug\Presentación.Garantías.resources
+C:\Users\ALUMNOS\Desktop\SEGUNDA REVISON\Proyecto\Datos\Presentación\obj\Debug\Presentación.Iniciar_Sesión.resources
+C:\Users\ALUMNOS\Desktop\SEGUNDA REVISON\Proyecto\Datos\Presentación\obj\Debug\Presentación.Inventario.resources
+C:\Users\ALUMNOS\Desktop\SEGUNDA REVISON\Proyecto\Datos\Presentación\obj\Debug\Presentación.Mensaje_bienvenidos.resources
+C:\Users\ALUMNOS\Desktop\SEGUNDA REVISON\Proyecto\Datos\Presentación\obj\Debug\Presentación.Menu_Principal.resources
+C:\Users\ALUMNOS\Desktop\SEGUNDA REVISON\Proyecto\Datos\Presentación\obj\Debug\Presentación.Productos.resources
+C:\Users\ALUMNOS\Desktop\SEGUNDA REVISON\Proyecto\Datos\Presentación\obj\Debug\Presentación.Properties.Resources.resources
+C:\Users\ALUMNOS\Desktop\SEGUNDA REVISON\Proyecto\Datos\Presentación\obj\Debug\Presentación.Proveedores.resources
+C:\Users\ALUMNOS\Desktop\SEGUNDA REVISON\Proyecto\Datos\Presentación\obj\Debug\Presentación.Tipo_presentacion.resources
+C:\Users\ALUMNOS\Desktop\SEGUNDA REVISON\Proyecto\Datos\Presentación\obj\Debug\Presentación.Usuarios.resources
+C:\Users\ALUMNOS\Desktop\SEGUNDA REVISON\Proyecto\Datos\Presentación\obj\Debug\Presentación.Ventas.resources
+C:\Users\ALUMNOS\Desktop\SEGUNDA REVISON\Proyecto\Datos\Presentación\obj\Debug\Presentación.csproj.GenerateResource.Cache
+F:\jsajajaj\Proyecto\Datos\Presentación\bin\Debug\Presentación.exe.config
+F:\jsajajaj\Proyecto\Datos\Presentación\obj\Debug\Presentación.exe
+F:\jsajajaj\Proyecto\Datos\Presentación\obj\Debug\Presentación.pdb
+G:\jsajajaj\Proyecto\Datos\Presentación\bin\Debug\Presentación.exe.config
+G:\jsajajaj\Proyecto\Datos\Presentación\bin\Debug\Presentación.exe
+G:\jsajajaj\Proyecto\Datos\Presentación\bin\Debug\Presentación.pdb
+G:\jsajajaj\Proyecto\Datos\Presentación\bin\Debug\Lógica.dll
+G:\jsajajaj\Proyecto\Datos\Presentación\bin\Debug\Lógica.pdb
+G:\jsajajaj\Proyecto\Datos\Presentación\obj\Debug\Presentación.csprojResolveAssemblyReference.cache
+G:\jsajajaj\Proyecto\Datos\Presentación\obj\Debug\Presentación.Bienvenidos.resources
+G:\jsajajaj\Proyecto\Datos\Presentación\obj\Debug\Presentación.Bodega.resources
+G:\jsajajaj\Proyecto\Datos\Presentación\obj\Debug\Presentación.Cargo.resources
+G:\jsajajaj\Proyecto\Datos\Presentación\obj\Debug\Presentación.Clientes.resources
+G:\jsajajaj\Proyecto\Datos\Presentación\obj\Debug\Presentación.Compras.resources
+G:\jsajajaj\Proyecto\Datos\Presentación\obj\Debug\Presentación.Contrato.resources
+G:\jsajajaj\Proyecto\Datos\Presentación\obj\Debug\Presentación.Devolucion_producto.resources
+G:\jsajajaj\Proyecto\Datos\Presentación\obj\Debug\Presentación.Empleados.resources
+G:\jsajajaj\Proyecto\Datos\Presentación\obj\Debug\Presentación.Estado.resources
+G:\jsajajaj\Proyecto\Datos\Presentación\obj\Debug\Presentación.Forma_pago.resources
+G:\jsajajaj\Proyecto\Datos\Presentación\obj\Debug\Presentación.Garantías.resources
+G:\jsajajaj\Proyecto\Datos\Presentación\obj\Debug\Presentación.Iniciar_Sesión.resources
+G:\jsajajaj\Proyecto\Datos\Presentación\obj\Debug\Presentación.Inventario.resources
+G:\jsajajaj\Proyecto\Datos\Presentación\obj\Debug\Presentación.Mensaje_bienvenidos.resources
+G:\jsajajaj\Proyecto\Datos\Presentación\obj\Debug\Presentación.Menu_Principal.resources
+G:\jsajajaj\Proyecto\Datos\Presentación\obj\Debug\Presentación.Productos.resources
+G:\jsajajaj\Proyecto\Datos\Presentación\obj\Debug\Presentación.Properties.Resources.resources
+G:\jsajajaj\Proyecto\Datos\Presentación\obj\Debug\Presentación.Proveedores.resources
+G:\jsajajaj\Proyecto\Datos\Presentación\obj\Debug\Presentación.Tipo_presentacion.resources
+G:\jsajajaj\Proyecto\Datos\Presentación\obj\Debug\Presentación.Usuarios.resources
+G:\jsajajaj\Proyecto\Datos\Presentación\obj\Debug\Presentación.Ventas.resources
+G:\jsajajaj\Proyecto\Datos\Presentación\obj\Debug\Presentación.csproj.GenerateResource.Cache
+G:\jsajajaj\Proyecto\Datos\Presentación\obj\Debug\Presentación.exe
+G:\jsajajaj\Proyecto\Datos\Presentación\obj\Debug\Presentación.pdb
+F:\jsajajaj\Proyecto\Datos\Presentación\bin\Debug\Presentación.exe
+F:\jsajajaj\Proyecto\Datos\Presentación\bin\Debug\Presentación.pdb
+F:\jsajajaj\Proyecto\Datos\Presentación\bin\Debug\Lógica.dll
+F:\jsajajaj\Proyecto\Datos\Presentación\bin\Debug\Lógica.pdb
+F:\jsajajaj\Proyecto\Datos\Presentación\obj\Debug\Presentación.csprojResolveAssemblyReference.cache
+F:\jsajajaj\Proyecto\Datos\Presentación\obj\Debug\Presentación.Bienvenidos.resources
+F:\jsajajaj\Proyecto\Datos\Presentación\obj\Debug\Presentación.Bodega.resources
+F:\jsajajaj\Proyecto\Datos\Presentación\obj\Debug\Presentación.Cargo.resources
+F:\jsajajaj\Proyecto\Datos\Presentación\obj\Debug\Presentación.Clientes.resources
+F:\jsajajaj\Proyecto\Datos\Presentación\obj\Debug\Presentación.Compras.resources
+F:\jsajajaj\Proyecto\Datos\Presentación\obj\Debug\Presentación.Contrato.resources
+F:\jsajajaj\Proyecto\Datos\Presentación\obj\Debug\Presentación.Devolucion_producto.resources
+F:\jsajajaj\Proyecto\Datos\Presentación\obj\Debug\Presentación.Empleados.resources
+F:\jsajajaj\Proyecto\Datos\Presentación\obj\Debug\Presentación.Estado.resources
+F:\jsajajaj\Proyecto\Datos\Presentación\obj\Debug\Presentación.Forma_pago.resources
+F:\jsajajaj\Proyecto\Datos\Presentación\obj\Debug\Presentación.Garantías.resources
+F:\jsajajaj\Proyecto\Datos\Presentación\obj\Debug\Presentación.Iniciar_Sesión.resources
+F:\jsajajaj\Proyecto\Datos\Presentación\obj\Debug\Presentación.Inventario.resources
+F:\jsajajaj\Proyecto\Datos\Presentación\obj\Debug\Presentación.Mensaje_bienvenidos.resources
+F:\jsajajaj\Proyecto\Datos\Presentación\obj\Debug\Presentación.Menu_Principal.resources
+F:\jsajajaj\Proyecto\Datos\Presentación\obj\Debug\Presentación.Productos.resources
+F:\jsajajaj\Proyecto\Datos\Presentación\obj\Debug\Presentación.Properties.Resources.resources
+F:\jsajajaj\Proyecto\Datos\Presentación\obj\Debug\Presentación.Proveedores.resources
+F:\jsajajaj\Proyecto\Datos\Presentación\obj\Debug\Presentación.Tipo_presentacion.resources
+F:\jsajajaj\Proyecto\Datos\Presentación\obj\Debug\Presentación.Usuarios.resources
+F:\jsajajaj\Proyecto\Datos\Presentación\obj\Debug\Presentación.Ventas.resources
+F:\jsajajaj\Proyecto\Datos\Presentación\obj\Debug\Presentación.csproj.GenerateResource.Cache
+E:\jsajajaj\Proyecto\Datos\Presentación\bin\Debug\Presentación.exe.config
+E:\jsajajaj\Proyecto\Datos\Presentación\obj\Debug\Presentación.exe
+E:\jsajajaj\Proyecto\Datos\Presentación\obj\Debug\Presentación.pdb
+E:\jsajajaj\Proyecto\Datos\Presentación\bin\Debug\Presentación.exe
+E:\jsajajaj\Proyecto\Datos\Presentación\bin\Debug\Presentación.pdb
+E:\jsajajaj\Proyecto\Datos\Presentación\bin\Debug\Lógica.dll
+E:\jsajajaj\Proyecto\Datos\Presentación\bin\Debug\Lógica.pdb
+E:\jsajajaj\Proyecto\Datos\Presentación\obj\Debug\Presentación.csprojResolveAssemblyReference.cache
+E:\jsajajaj\Proyecto\Datos\Presentación\obj\Debug\Presentación.Bienvenidos.resources
+E:\jsajajaj\Proyecto\Datos\Presentación\obj\Debug\Presentación.Bodega.resources
+E:\jsajajaj\Proyecto\Datos\Presentación\obj\Debug\Presentación.Cargo.resources
+E:\jsajajaj\Proyecto\Datos\Presentación\obj\Debug\Presentación.Clientes.resources
+E:\jsajajaj\Proyecto\Datos\Presentación\obj\Debug\Presentación.Compras.resources
+E:\jsajajaj\Proyecto\Datos\Presentación\obj\Debug\Presentación.Contrato.resources
+E:\jsajajaj\Proyecto\Datos\Presentación\obj\Debug\Presentación.Devolucion_producto.resources
+E:\jsajajaj\Proyecto\Datos\Presentación\obj\Debug\Presentación.Empleados.resources
+E:\jsajajaj\Proyecto\Datos\Presentación\obj\Debug\Presentación.Estado.resources
+E:\jsajajaj\Proyecto\Datos\Presentación\obj\Debug\Presentación.Forma_pago.resources
+E:\jsajajaj\Proyecto\Datos\Presentación\obj\Debug\Presentación.Garantías.resources
+E:\jsajajaj\Proyecto\Datos\Presentación\obj\Debug\Presentación.Iniciar_Sesión.resources
+E:\jsajajaj\Proyecto\Datos\Presentación\obj\Debug\Presentación.Inventario.resources
+E:\jsajajaj\Proyecto\Datos\Presentación\obj\Debug\Presentación.Mensaje_bienvenidos.resources
+E:\jsajajaj\Proyecto\Datos\Presentación\obj\Debug\Presentación.Menu_Principal.resources
+E:\jsajajaj\Proyecto\Datos\Presentación\obj\Debug\Presentación.Productos.resources
+E:\jsajajaj\Proyecto\Datos\Presentación\obj\Debug\Presentación.Properties.Resources.resources
+E:\jsajajaj\Proyecto\Datos\Presentación\obj\Debug\Presentación.Proveedores.resources
+E:\jsajajaj\Proyecto\Datos\Presentación\obj\Debug\Presentación.Tipo_presentacion.resources
+E:\jsajajaj\Proyecto\Datos\Presentación\obj\Debug\Presentación.Usuarios.resources
+E:\jsajajaj\Proyecto\Datos\Presentación\obj\Debug\Presentación.Ventas.resources
+E:\jsajajaj\Proyecto\Datos\Presentación\obj\Debug\Presentación.csproj.GenerateResource.Cache
+G:\PROYECTO\Proyecto\Datos\Presentación\bin\Debug\Presentación.exe.config
+G:\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.exe
+G:\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.pdb
+G:\PROYECTO\Proyecto\Datos\Presentación\bin\Debug\Presentación.exe
+G:\PROYECTO\Proyecto\Datos\Presentación\bin\Debug\Presentación.pdb
+G:\PROYECTO\Proyecto\Datos\Presentación\bin\Debug\Lógica.dll
+G:\PROYECTO\Proyecto\Datos\Presentación\bin\Debug\Lógica.pdb
+G:\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.csprojResolveAssemblyReference.cache
+G:\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Bienvenidos.resources
+G:\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Bodega.resources
+G:\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Cargo.resources
+G:\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Clientes.resources
+G:\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Compras.resources
+G:\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Contrato.resources
+G:\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Devolucion_producto.resources
+G:\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Empleados.resources
+G:\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Estado.resources
+G:\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Forma_pago.resources
+G:\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Garantías.resources
+G:\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Iniciar_Sesión.resources
+G:\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Inventario.resources
+G:\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Mensaje_bienvenidos.resources
+G:\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Menu_Principal.resources
+G:\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Productos.resources
+G:\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Properties.Resources.resources
+G:\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Proveedores.resources
+G:\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Tipo_presentacion.resources
+G:\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Usuarios.resources
+G:\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Ventas.resources
+G:\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.csproj.GenerateResource.Cache
+E:\PROYECTO\Proyecto\Datos\Presentación\bin\Debug\Presentación.exe
+E:\PROYECTO\Proyecto\Datos\Presentación\bin\Debug\Presentación.pdb
+E:\PROYECTO\Proyecto\Datos\Presentación\bin\Debug\Lógica.dll
+E:\PROYECTO\Proyecto\Datos\Presentación\bin\Debug\Lógica.pdb
+E:\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.csprojResolveAssemblyReference.cache
+E:\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Bienvenidos.resources
+E:\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Bodega.resources
+E:\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Cargo.resources
+E:\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Clientes.resources
+E:\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Compras.resources
+E:\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Contrato.resources
+E:\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Devolucion_producto.resources
+E:\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Empleados.resources
+E:\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Estado.resources
+E:\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Forma_pago.resources
+E:\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Garantías.resources
+E:\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Iniciar_Sesión.resources
+E:\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Inventario.resources
+E:\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Mensaje_bienvenidos.resources
+E:\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Menu_Principal.resources
+E:\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Productos.resources
+E:\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Properties.Resources.resources
+E:\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Proveedores.resources
+E:\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Tipo_presentacion.resources
+E:\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Usuarios.resources
+E:\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Ventas.resources
+E:\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.csproj.GenerateResource.Cache
+E:\System Volume Information\PROYECTO\Proyecto\Datos\Presentación\bin\Debug\Presentación.exe.config
+E:\System Volume Information\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.exe
+E:\System Volume Information\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.pdb
+G:\TRABAJO SOFIA\PROYECTO\Proyecto\Datos\Presentación\bin\Debug\Presentación.exe.config
+G:\TRABAJO SOFIA\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.exe
+G:\TRABAJO SOFIA\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.pdb
+G:\TRABAJO SOFIA\PROYECTO\Proyecto\Datos\Presentación\bin\Debug\Presentación.exe
+G:\TRABAJO SOFIA\PROYECTO\Proyecto\Datos\Presentación\bin\Debug\Presentación.pdb
+G:\TRABAJO SOFIA\PROYECTO\Proyecto\Datos\Presentación\bin\Debug\Lógica.dll
+G:\TRABAJO SOFIA\PROYECTO\Proyecto\Datos\Presentación\bin\Debug\Lógica.pdb
+G:\TRABAJO SOFIA\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.csprojResolveAssemblyReference.cache
+G:\TRABAJO SOFIA\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Bienvenidos.resources
+G:\TRABAJO SOFIA\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Bodega.resources
+G:\TRABAJO SOFIA\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Cargo.resources
+G:\TRABAJO SOFIA\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Clientes.resources
+G:\TRABAJO SOFIA\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Compras.resources
+G:\TRABAJO SOFIA\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Contrato.resources
+G:\TRABAJO SOFIA\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Devolucion_producto.resources
+G:\TRABAJO SOFIA\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Empleados.resources
+G:\TRABAJO SOFIA\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Estado.resources
+G:\TRABAJO SOFIA\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Forma_pago.resources
+G:\TRABAJO SOFIA\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Garantías.resources
+G:\TRABAJO SOFIA\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Iniciar_Sesión.resources
+G:\TRABAJO SOFIA\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Inventario.resources
+G:\TRABAJO SOFIA\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Mensaje_bienvenidos.resources
+G:\TRABAJO SOFIA\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Menu_Principal.resources
+G:\TRABAJO SOFIA\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Productos.resources
+G:\TRABAJO SOFIA\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Properties.Resources.resources
+G:\TRABAJO SOFIA\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Proveedores.resources
+G:\TRABAJO SOFIA\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Tipo_presentacion.resources
+G:\TRABAJO SOFIA\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Usuarios.resources
+G:\TRABAJO SOFIA\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Ventas.resources
+G:\TRABAJO SOFIA\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.csproj.GenerateResource.Cache
+F:\TRABAJO SOFIA\PROYECTO\Proyecto\Datos\Presentación\bin\Debug\Presentación.exe.config
+F:\TRABAJO SOFIA\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.exe
+F:\TRABAJO SOFIA\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.pdb
+F:\TRABAJO SOFIA\PROYECTO\Proyecto\Datos\Presentación\bin\Debug\Presentación.exe
+F:\TRABAJO SOFIA\PROYECTO\Proyecto\Datos\Presentación\bin\Debug\Presentación.pdb
+F:\TRABAJO SOFIA\PROYECTO\Proyecto\Datos\Presentación\bin\Debug\Lógica.dll
+F:\TRABAJO SOFIA\PROYECTO\Proyecto\Datos\Presentación\bin\Debug\Datos.dll
+F:\TRABAJO SOFIA\PROYECTO\Proyecto\Datos\Presentación\bin\Debug\Lógica.pdb
+F:\TRABAJO SOFIA\PROYECTO\Proyecto\Datos\Presentación\bin\Debug\Datos.pdb
+F:\TRABAJO SOFIA\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.csprojResolveAssemblyReference.cache
+F:\TRABAJO SOFIA\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Bienvenidos.resources
+F:\TRABAJO SOFIA\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Bodega.resources
+F:\TRABAJO SOFIA\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Cargo.resources
+F:\TRABAJO SOFIA\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Clientes.resources
+F:\TRABAJO SOFIA\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Compras.resources
+F:\TRABAJO SOFIA\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Contrato.resources
+F:\TRABAJO SOFIA\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Devolucion_producto.resources
+F:\TRABAJO SOFIA\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Empleados.resources
+F:\TRABAJO SOFIA\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Estado.resources
+F:\TRABAJO SOFIA\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Forma_pago.resources
+F:\TRABAJO SOFIA\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Garantías.resources
+F:\TRABAJO SOFIA\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Iniciar_Sesión.resources
+F:\TRABAJO SOFIA\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Inventario.resources
+F:\TRABAJO SOFIA\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Mensaje_bienvenidos.resources
+F:\TRABAJO SOFIA\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Menu_Principal.resources
+F:\TRABAJO SOFIA\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Productos.resources
+F:\TRABAJO SOFIA\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Properties.Resources.resources
+F:\TRABAJO SOFIA\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Proveedores.resources
+F:\TRABAJO SOFIA\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Tipo_presentacion.resources
+F:\TRABAJO SOFIA\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Usuarios.resources
+F:\TRABAJO SOFIA\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.Ventas.resources
+F:\TRABAJO SOFIA\PROYECTO\Proyecto\Datos\Presentación\obj\Debug\Presentación.csproj.GenerateResource.Cache
+E:\PROYECTO\PROYECTO V2\Datos\Presentación\bin\Debug\Presentación.exe.config
+E:\PROYECTO\PROYECTO V2\Datos\Presentación\obj\Debug\Presentación.exe
+E:\PROYECTO\PROYECTO V2\Datos\Presentación\obj\Debug\Presentación.pdb
+E:\PROYECTO\PROYECTO V2\Datos\Presentación\bin\Debug\Presentación.exe
+E:\PROYECTO\PROYECTO V2\Datos\Presentación\bin\Debug\Presentación.pdb
+E:\PROYECTO\PROYECTO V2\Datos\Presentación\bin\Debug\Lógica.dll
+E:\PROYECTO\PROYECTO V2\Datos\Presentación\bin\Debug\Datos.dll
+E:\PROYECTO\PROYECTO V2\Datos\Presentación\bin\Debug\Lógica.pdb
+E:\PROYECTO\PROYECTO V2\Datos\Presentación\bin\Debug\Datos.pdb
+E:\PROYECTO\PROYECTO V2\Datos\Presentación\obj\Debug\Presentación.csprojResolveAssemblyReference.cache
+E:\PROYECTO\PROYECTO V2\Datos\Presentación\obj\Debug\Presentación.Bienvenidos.resources
+E:\PROYECTO\PROYECTO V2\Datos\Presentación\obj\Debug\Presentación.Bodega.resources
+E:\PROYECTO\PROYECTO V2\Datos\Presentación\obj\Debug\Presentación.Cargo.resources
+E:\PROYECTO\PROYECTO V2\Datos\Presentación\obj\Debug\Presentación.Clientes.resources
+E:\PROYECTO\PROYECTO V2\Datos\Presentación\obj\Debug\Presentación.Compras.resources
+E:\PROYECTO\PROYECTO V2\Datos\Presentación\obj\Debug\Presentación.Contrato.resources
+E:\PROYECTO\PROYECTO V2\Datos\Presentación\obj\Debug\Presentación.Devolucion_producto.resources
+E:\PROYECTO\PROYECTO V2\Datos\Presentación\obj\Debug\Presentación.Empleados.resources
+E:\PROYECTO\PROYECTO V2\Datos\Presentación\obj\Debug\Presentación.Estado.resources
+E:\PROYECTO\PROYECTO V2\Datos\Presentación\obj\Debug\Presentación.Forma_pago.resources
+E:\PROYECTO\PROYECTO V2\Datos\Presentación\obj\Debug\Presentación.Garantías.resources
+E:\PROYECTO\PROYECTO V2\Datos\Presentación\obj\Debug\Presentación.Iniciar_Sesión.resources
+E:\PROYECTO\PROYECTO V2\Datos\Presentación\obj\Debug\Presentación.Inventario.resources
+E:\PROYECTO\PROYECTO V2\Datos\Presentación\obj\Debug\Presentación.Mensaje_bienvenidos.resources
+E:\PROYECTO\PROYECTO V2\Datos\Presentación\obj\Debug\Presentación.Menu_Principal.resources
+E:\PROYECTO\PROYECTO V2\Datos\Presentación\obj\Debug\Presentación.Productos.resources
+E:\PROYECTO\PROYECTO V2\Datos\Presentación\obj\Debug\Presentación.Properties.Resources.resources
+E:\PROYECTO\PROYECTO V2\Datos\Presentación\obj\Debug\Presentación.Proveedores.resources
+E:\PROYECTO\PROYECTO V2\Datos\Presentación\obj\Debug\Presentación.Tipo_presentacion.resources
+E:\PROYECTO\PROYECTO V2\Datos\Presentación\obj\Debug\Presentación.Usuarios.resources
+E:\PROYECTO\PROYECTO V2\Datos\Presentación\obj\Debug\Presentación.Ventas.resources
+E:\PROYECTO\PROYECTO V2\Datos\Presentación\obj\Debug\Presentación.csproj.GenerateResource.Cache
+F:\PROYECTO\PROYECTO V2\Datos\Presentación\bin\Debug\Presentación.exe.config
+F:\PROYECTO\PROYECTO V2\Datos\Presentación\obj\Debug\Presentación.exe
+F:\PROYECTO\PROYECTO V2\Datos\Presentación\obj\Debug\Presentación.pdb
+F:\PROYECTO\PROYECTO V2\Datos\Presentación\bin\Debug\Presentación.exe
+F:\PROYECTO\PROYECTO V2\Datos\Presentación\bin\Debug\Presentación.pdb
+F:\PROYECTO\PROYECTO V2\Datos\Presentación\bin\Debug\Datos.dll
+F:\PROYECTO\PROYECTO V2\Datos\Presentación\bin\Debug\Lógica.dll
+F:\PROYECTO\PROYECTO V2\Datos\Presentación\bin\Debug\Datos.pdb
+F:\PROYECTO\PROYECTO V2\Datos\Presentación\bin\Debug\Lógica.pdb
+F:\PROYECTO\PROYECTO V2\Datos\Presentación\obj\Debug\Presentación.csprojResolveAssemblyReference.cache
+F:\PROYECTO\PROYECTO V2\Datos\Presentación\obj\Debug\Presentación.Bienvenidos.resources
+F:\PROYECTO\PROYECTO V2\Datos\Presentación\obj\Debug\Presentación.Bodega.resources
+F:\PROYECTO\PROYECTO V2\Datos\Presentación\obj\Debug\Presentación.Cargo.resources
+F:\PROYECTO\PROYECTO V2\Datos\Presentación\obj\Debug\Presentación.Clientes.resources
+F:\PROYECTO\PROYECTO V2\Datos\Presentación\obj\Debug\Presentación.Compras.resources
+F:\PROYECTO\PROYECTO V2\Datos\Presentación\obj\Debug\Presentación.Contrato.resources
+F:\PROYECTO\PROYECTO V2\Datos\Presentación\obj\Debug\Presentación.Devolucion_producto.resources
+F:\PROYECTO\PROYECTO V2\Datos\Presentación\obj\Debug\Presentación.Empleados.resources
+F:\PROYECTO\PROYECTO V2\Datos\Presentación\obj\Debug\Presentación.Estado.resources
+F:\PROYECTO\PROYECTO V2\Datos\Presentación\obj\Debug\Presentación.Forma_pago.resources
+F:\PROYECTO\PROYECTO V2\Datos\Presentación\obj\Debug\Presentación.Garantías.resources
+F:\PROYECTO\PROYECTO V2\Datos\Presentación\obj\Debug\Presentación.Iniciar_Sesión.resources
+F:\PROYECTO\PROYECTO V2\Datos\Presentación\obj\Debug\Presentación.Inventario.resources
+F:\PROYECTO\PROYECTO V2\Datos\Presentación\obj\Debug\Presentación.Mensaje_bienvenidos.resources
+F:\PROYECTO\PROYECTO V2\Datos\Presentación\obj\Debug\Presentación.Menu_Principal.resources
+F:\PROYECTO\PROYECTO V2\Datos\Presentación\obj\Debug\Presentación.Productos.resources
+F:\PROYECTO\PROYECTO V2\Datos\Presentación\obj\Debug\Presentación.Properties.Resources.resources
+F:\PROYECTO\PROYECTO V2\Datos\Presentación\obj\Debug\Presentación.Proveedores.resources
+F:\PROYECTO\PROYECTO V2\Datos\Presentación\obj\Debug\Presentación.Tipo_presentacion.resources
+F:\PROYECTO\PROYECTO V2\Datos\Presentación\obj\Debug\Presentación.Usuarios.resources
+F:\PROYECTO\PROYECTO V2\Datos\Presentación\obj\Debug\Presentación.Ventas.resources
+F:\PROYECTO\PROYECTO V2\Datos\Presentación\obj\Debug\Presentación.csproj.GenerateResource.Cache
+F:\Proyecto\Proyecto v3\Datos\Presentación\bin\Debug\Presentación.exe.config
+F:\Proyecto\Proyecto v3\Datos\Presentación\obj\Debug\Presentación.exe
+F:\Proyecto\Proyecto v3\Datos\Presentación\obj\Debug\Presentación.pdb
+F:\Proyecto\Proyecto v3\Datos\Presentación\bin\Debug\Datos.dll
+F:\Proyecto\Proyecto v3\Datos\Presentación\bin\Debug\Lógica.dll
+F:\Proyecto\Proyecto v3\Datos\Presentación\bin\Debug\Datos.pdb
+F:\Proyecto\Proyecto v3\Datos\Presentación\bin\Debug\Lógica.pdb
+F:\Proyecto\Proyecto v3\Datos\Presentación\obj\Debug\Presentación.csprojResolveAssemblyReference.cache
+F:\Proyecto\Proyecto v3\Datos\Presentación\obj\Debug\Presentación.Bienvenidos.resources
+F:\Proyecto\Proyecto v3\Datos\Presentación\obj\Debug\Presentación.Bodega.resources
+F:\Proyecto\Proyecto v3\Datos\Presentación\obj\Debug\Presentación.Cargo.resources
+F:\Proyecto\Proyecto v3\Datos\Presentación\obj\Debug\Presentación.Clientes.resources
+F:\Proyecto\Proyecto v3\Datos\Presentación\obj\Debug\Presentación.Compras.resources
+F:\Proyecto\Proyecto v3\Datos\Presentación\obj\Debug\Presentación.Contrato.resources
+F:\Proyecto\Proyecto v3\Datos\Presentación\obj\Debug\Presentación.Devolucion_producto.resources
+F:\Proyecto\Proyecto v3\Datos\Presentación\obj\Debug\Presentación.Empleados.resources
+F:\Proyecto\Proyecto v3\Datos\Presentación\obj\Debug\Presentación.Estado.resources
+F:\Proyecto\Proyecto v3\Datos\Presentación\obj\Debug\Presentación.Forma_pago.resources
+F:\Proyecto\Proyecto v3\Datos\Presentación\obj\Debug\Presentación.Garantías.resources
+F:\Proyecto\Proyecto v3\Datos\Presentación\obj\Debug\Presentación.Iniciar_Sesión.resources
+F:\Proyecto\Proyecto v3\Datos\Presentación\obj\Debug\Presentación.Inventario.resources
+F:\Proyecto\Proyecto v3\Datos\Presentación\obj\Debug\Presentación.Mensaje_bienvenidos.resources
+F:\Proyecto\Proyecto v3\Datos\Presentación\obj\Debug\Presentación.Menu_Principal.resources
+F:\Proyecto\Proyecto v3\Datos\Presentación\obj\Debug\Presentación.Productos.resources
+F:\Proyecto\Proyecto v3\Datos\Presentación\obj\Debug\Presentación.Properties.Resources.resources
+F:\Proyecto\Proyecto v3\Datos\Presentación\obj\Debug\Presentación.Proveedores.resources
+F:\Proyecto\Proyecto v3\Datos\Presentación\obj\Debug\Presentación.Tipo_presentacion.resources
+F:\Proyecto\Proyecto v3\Datos\Presentación\obj\Debug\Presentación.Usuarios.resources
+F:\Proyecto\Proyecto v3\Datos\Presentación\obj\Debug\Presentación.Ventas.resources
+F:\Proyecto\Proyecto v3\Datos\Presentación\obj\Debug\Presentación.csproj.GenerateResource.Cache
+F:\Proyecto\Proyecto v3\Datos\Presentación\bin\Debug\Presentación.exe
+F:\Proyecto\Proyecto v3\Datos\Presentación\bin\Debug\Presentación.pdb
+E:\Proyecto\Proyecto v3\Datos\Presentación\bin\Debug\Presentación.exe.config
+E:\Proyecto\Proyecto v3\Datos\Presentación\obj\Debug\Presentación.exe
+E:\Proyecto\Proyecto v3\Datos\Presentación\obj\Debug\Presentación.pdb
+E:\Proyecto\Proyecto v3\Datos\Presentación\bin\Debug\Presentación.exe
+E:\Proyecto\Proyecto v3\Datos\Presentación\bin\Debug\Presentación.pdb
+E:\Proyecto\Proyecto v3\Datos\Presentación\bin\Debug\Datos.dll
+E:\Proyecto\Proyecto v3\Datos\Presentación\bin\Debug\Lógica.dll
+E:\Proyecto\Proyecto v3\Datos\Presentación\bin\Debug\Datos.pdb
+E:\Proyecto\Proyecto v3\Datos\Presentación\bin\Debug\Lógica.pdb
+E:\Proyecto\Proyecto v3\Datos\Presentación\obj\Debug\Presentación.csprojResolveAssemblyReference.cache
+E:\Proyecto\Proyecto v3\Datos\Presentación\obj\Debug\Presentación.Bienvenidos.resources
+E:\Proyecto\Proyecto v3\Datos\Presentación\obj\Debug\Presentación.Bodega.resources
+E:\Proyecto\Proyecto v3\Datos\Presentación\obj\Debug\Presentación.Cargo.resources
+E:\Proyecto\Proyecto v3\Datos\Presentación\obj\Debug\Presentación.Clientes.resources
+E:\Proyecto\Proyecto v3\Datos\Presentación\obj\Debug\Presentación.Compras.resources
+E:\Proyecto\Proyecto v3\Datos\Presentación\obj\Debug\Presentación.Contrato.resources
+E:\Proyecto\Proyecto v3\Datos\Presentación\obj\Debug\Presentación.Devolucion_producto.resources
+E:\Proyecto\Proyecto v3\Datos\Presentación\obj\Debug\Presentación.Empleados.resources
+E:\Proyecto\Proyecto v3\Datos\Presentación\obj\Debug\Presentación.Estado.resources
+E:\Proyecto\Proyecto v3\Datos\Presentación\obj\Debug\Presentación.Forma_pago.resources
+E:\Proyecto\Proyecto v3\Datos\Presentación\obj\Debug\Presentación.Garantías.resources
+E:\Proyecto\Proyecto v3\Datos\Presentación\obj\Debug\Presentación.Iniciar_Sesión.resources
+E:\Proyecto\Proyecto v3\Datos\Presentación\obj\Debug\Presentación.Inventario.resources
+E:\Proyecto\Proyecto v3\Datos\Presentación\obj\Debug\Presentación.Mensaje_bienvenidos.resources
+E:\Proyecto\Proyecto v3\Datos\Presentación\obj\Debug\Presentación.Menu_Principal.resources
+E:\Proyecto\Proyecto v3\Datos\Presentación\obj\Debug\Presentación.Productos.resources
+E:\Proyecto\Proyecto v3\Datos\Presentación\obj\Debug\Presentación.Properties.Resources.resources
+E:\Proyecto\Proyecto v3\Datos\Presentación\obj\Debug\Presentación.Proveedores.resources
+E:\Proyecto\Proyecto v3\Datos\Presentación\obj\Debug\Presentación.Tipo_presentacion.resources
+E:\Proyecto\Proyecto v3\Datos\Presentación\obj\Debug\Presentación.Usuarios.resources
+E:\Proyecto\Proyecto v3\Datos\Presentación\obj\Debug\Presentación.Ventas.resources
+E:\Proyecto\Proyecto v3\Datos\Presentación\obj\Debug\Presentación.csproj.GenerateResource.Cache
+F:\Proyecto\Proyecto v3\Datos\Presentación\bin\Debug\MetroFramework.Design.dll
+F:\Proyecto\Proyecto v3\Datos\Presentación\bin\Debug\MetroFramework.dll
+F:\Proyecto\Proyecto v3\Datos\Presentación\bin\Debug\MetroFramework.Fonts.dll
+E:\Proyecto\Proyecto v3\Datos\Presentación\bin\Debug\MetroFramework.Design.dll
+E:\Proyecto\Proyecto v3\Datos\Presentación\bin\Debug\MetroFramework.dll
+E:\Proyecto\Proyecto v3\Datos\Presentación\bin\Debug\MetroFramework.Fonts.dll
+E:\Proyecto\Proyecto v3\Datos\Presentación\obj\Debug\Presentación.arreglos.resources
+F:\Proyecto\Proyecto v4\Datos\Presentación\bin\Debug\Presentación.exe.config
+F:\Proyecto\Proyecto v4\Datos\Presentación\obj\Debug\Presentación.exe
+F:\Proyecto\Proyecto v4\Datos\Presentación\obj\Debug\Presentación.pdb
+G:\Proyecto\Proyecto v4\Datos\Presentación\bin\Debug\Presentación.exe.config
+G:\Proyecto\Proyecto v4\Datos\Presentación\obj\Debug\Presentación.exe
+G:\Proyecto\Proyecto v4\Datos\Presentación\obj\Debug\Presentación.pdb
+F:\Proyecto\Proyecto v4\Datos\Presentación\bin\Debug\Presentación.exe
+F:\Proyecto\Proyecto v4\Datos\Presentación\bin\Debug\Presentación.pdb
+F:\Proyecto\Proyecto v4\Datos\Presentación\bin\Debug\Datos.dll
+F:\Proyecto\Proyecto v4\Datos\Presentación\bin\Debug\Lógica.dll
+F:\Proyecto\Proyecto v4\Datos\Presentación\bin\Debug\MetroFramework.Design.dll
+F:\Proyecto\Proyecto v4\Datos\Presentación\bin\Debug\MetroFramework.dll
+F:\Proyecto\Proyecto v4\Datos\Presentación\bin\Debug\MetroFramework.Fonts.dll
+F:\Proyecto\Proyecto v4\Datos\Presentación\bin\Debug\Datos.pdb
+F:\Proyecto\Proyecto v4\Datos\Presentación\bin\Debug\Lógica.pdb
+F:\Proyecto\Proyecto v4\Datos\Presentación\obj\Debug\Presentación.csprojResolveAssemblyReference.cache
+F:\Proyecto\Proyecto v4\Datos\Presentación\obj\Debug\Presentación.arreglos.resources
+F:\Proyecto\Proyecto v4\Datos\Presentación\obj\Debug\Presentación.Bienvenidos.resources
+F:\Proyecto\Proyecto v4\Datos\Presentación\obj\Debug\Presentación.Bodega.resources
+F:\Proyecto\Proyecto v4\Datos\Presentación\obj\Debug\Presentación.Cargo.resources
+F:\Proyecto\Proyecto v4\Datos\Presentación\obj\Debug\Presentación.Clientes.resources
+F:\Proyecto\Proyecto v4\Datos\Presentación\obj\Debug\Presentación.Compras.resources
+F:\Proyecto\Proyecto v4\Datos\Presentación\obj\Debug\Presentación.Contrato.resources
+F:\Proyecto\Proyecto v4\Datos\Presentación\obj\Debug\Presentación.Devolucion_producto.resources
+F:\Proyecto\Proyecto v4\Datos\Presentación\obj\Debug\Presentación.Empleados.resources
+F:\Proyecto\Proyecto v4\Datos\Presentación\obj\Debug\Presentación.Estado.resources
+F:\Proyecto\Proyecto v4\Datos\Presentación\obj\Debug\Presentación.Forma_pago.resources
+F:\Proyecto\Proyecto v4\Datos\Presentación\obj\Debug\Presentación.Garantías.resources
+F:\Proyecto\Proyecto v4\Datos\Presentación\obj\Debug\Presentación.Iniciar_Sesión.resources
+F:\Proyecto\Proyecto v4\Datos\Presentación\obj\Debug\Presentación.Inventario.resources
+F:\Proyecto\Proyecto v4\Datos\Presentación\obj\Debug\Presentación.Mensaje_bienvenidos.resources
+F:\Proyecto\Proyecto v4\Datos\Presentación\obj\Debug\Presentación.Menu_Principal.resources
+F:\Proyecto\Proyecto v4\Datos\Presentación\obj\Debug\Presentación.Productos.resources
+F:\Proyecto\Proyecto v4\Datos\Presentación\obj\Debug\Presentación.Properties.Resources.resources
+F:\Proyecto\Proyecto v4\Datos\Presentación\obj\Debug\Presentación.Proveedores.resources
+F:\Proyecto\Proyecto v4\Datos\Presentación\obj\Debug\Presentación.Tipo_presentacion.resources
+F:\Proyecto\Proyecto v4\Datos\Presentación\obj\Debug\Presentación.Usuarios.resources
+F:\Proyecto\Proyecto v4\Datos\Presentación\obj\Debug\Presentación.Ventas.resources
+F:\Proyecto\Proyecto v4\Datos\Presentación\obj\Debug\Presentación.csproj.GenerateResource.Cache
+F:\Proyecto\Proyecto v5\Datos\Presentación\bin\Debug\Presentación.exe.config
+F:\Proyecto\Proyecto v5\Datos\Presentación\obj\Debug\Presentación.exe
+F:\Proyecto\Proyecto v5\Datos\Presentación\obj\Debug\Presentación.pdb
+F:\Proyecto\Proyecto v5\Datos\Presentación\obj\Debug\Presentación.csprojResolveAssemblyReference.cache
+F:\Proyecto\Proyecto v5\Datos\Presentación\obj\Debug\Presentación.arreglos.resources
+F:\Proyecto\Proyecto v5\Datos\Presentación\obj\Debug\Presentación.Bienvenidos.resources
+F:\Proyecto\Proyecto v5\Datos\Presentación\obj\Debug\Presentación.Bodega.resources
+F:\Proyecto\Proyecto v5\Datos\Presentación\obj\Debug\Presentación.Cargo.resources
+F:\Proyecto\Proyecto v5\Datos\Presentación\obj\Debug\Presentación.Clientes.resources
+F:\Proyecto\Proyecto v5\Datos\Presentación\obj\Debug\Presentación.Compras.resources
+F:\Proyecto\Proyecto v5\Datos\Presentación\obj\Debug\Presentación.Contrato.resources
+F:\Proyecto\Proyecto v5\Datos\Presentación\obj\Debug\Presentación.Devolucion_producto.resources
+F:\Proyecto\Proyecto v5\Datos\Presentación\obj\Debug\Presentación.Empleados.resources
+F:\Proyecto\Proyecto v5\Datos\Presentación\obj\Debug\Presentación.Estado.resources
+F:\Proyecto\Proyecto v5\Datos\Presentación\obj\Debug\Presentación.Forma_pago.resources
+F:\Proyecto\Proyecto v5\Datos\Presentación\obj\Debug\Presentación.Garantías.resources
+F:\Proyecto\Proyecto v5\Datos\Presentación\obj\Debug\Presentación.Iniciar_Sesión.resources
+F:\Proyecto\Proyecto v5\Datos\Presentación\obj\Debug\Presentación.Inventario.resources
+F:\Proyecto\Proyecto v5\Datos\Presentación\obj\Debug\Presentación.Mensaje_bienvenidos.resources
+F:\Proyecto\Proyecto v5\Datos\Presentación\obj\Debug\Presentación.Menu_Principal.resources
+F:\Proyecto\Proyecto v5\Datos\Presentación\obj\Debug\Presentación.Productos.resources
+F:\Proyecto\Proyecto v5\Datos\Presentación\obj\Debug\Presentación.Properties.Resources.resources
+F:\Proyecto\Proyecto v5\Datos\Presentación\obj\Debug\Presentación.Proveedores.resources
+F:\Proyecto\Proyecto v5\Datos\Presentación\obj\Debug\Presentación.Tipo_presentacion.resources
+F:\Proyecto\Proyecto v5\Datos\Presentación\obj\Debug\Presentación.Usuarios.resources
+F:\Proyecto\Proyecto v5\Datos\Presentación\obj\Debug\Presentación.Ventas.resources
+F:\Proyecto\Proyecto v5\Datos\Presentación\obj\Debug\Presentación.csproj.GenerateResource.Cache
+F:\Proyecto\Proyecto v5\Datos\Presentación\bin\Debug\Presentación.exe
+F:\Proyecto\Proyecto v5\Datos\Presentación\bin\Debug\Presentación.pdb
+F:\Proyecto\Proyecto v5\Datos\Presentación\bin\Debug\Datos.dll
+F:\Proyecto\Proyecto v5\Datos\Presentación\bin\Debug\Lógica.dll
+F:\Proyecto\Proyecto v5\Datos\Presentación\bin\Debug\MetroFramework.Design.dll
+F:\Proyecto\Proyecto v5\Datos\Presentación\bin\Debug\MetroFramework.dll
+F:\Proyecto\Proyecto v5\Datos\Presentación\bin\Debug\MetroFramework.Fonts.dll
+F:\Proyecto\Proyecto v5\Datos\Presentación\bin\Debug\Datos.pdb
+F:\Proyecto\Proyecto v5\Datos\Presentación\bin\Debug\Lógica.pdb
+E:\ONCE\Proyectos\Ejecutable-20180329T001828Z-001\Ejecutable\Ejecutable\Datos\Presentación\bin\Debug\Presentación.exe.config
+E:\ONCE\Proyectos\Ejecutable-20180329T001828Z-001\Ejecutable\Ejecutable\Datos\Presentación\obj\Debug\Presentación.exe
+E:\ONCE\Proyectos\Ejecutable-20180329T001828Z-001\Ejecutable\Ejecutable\Datos\Presentación\obj\Debug\Presentación.pdb
+F:\ONCE\Proyectos\Ejecutable-20180329T001828Z-001\Ejecutable\Ejecutable\Datos\Presentación\bin\Debug\Presentación.exe.config
+F:\ONCE\Proyectos\Ejecutable-20180329T001828Z-001\Ejecutable\Ejecutable\Datos\Presentación\obj\Debug\Presentación.exe
+F:\ONCE\Proyectos\Ejecutable-20180329T001828Z-001\Ejecutable\Ejecutable\Datos\Presentación\obj\Debug\Presentación.pdb
+F:\Proyecto\Proyecto v6\Datos\Presentación\bin\Debug\Presentación.exe.config
+F:\Proyecto\Proyecto v6\Datos\Presentación\obj\Debug\Presentación.exe
+F:\Proyecto\Proyecto v6\Datos\Presentación\obj\Debug\Presentación.pdb
+F:\Proyecto\Proyecto v6\Datos\Presentación\bin\Debug\Presentación.exe
+F:\Proyecto\Proyecto v6\Datos\Presentación\bin\Debug\Presentación.pdb
+F:\Proyecto\Proyecto v6\Datos\Presentación\bin\Debug\Datos.dll
+F:\Proyecto\Proyecto v6\Datos\Presentación\bin\Debug\Lógica.dll
+F:\Proyecto\Proyecto v6\Datos\Presentación\bin\Debug\MetroFramework.Design.dll
+F:\Proyecto\Proyecto v6\Datos\Presentación\bin\Debug\MetroFramework.dll
+F:\Proyecto\Proyecto v6\Datos\Presentación\bin\Debug\MetroFramework.Fonts.dll
+F:\Proyecto\Proyecto v6\Datos\Presentación\bin\Debug\Datos.pdb
+F:\Proyecto\Proyecto v6\Datos\Presentación\bin\Debug\Lógica.pdb
+F:\Proyecto\Proyecto v6\Datos\Presentación\obj\Debug\Presentación.csprojResolveAssemblyReference.cache
+F:\Proyecto\Proyecto v6\Datos\Presentación\obj\Debug\Presentación.arreglos.resources
+F:\Proyecto\Proyecto v6\Datos\Presentación\obj\Debug\Presentación.Bienvenidos.resources
+F:\Proyecto\Proyecto v6\Datos\Presentación\obj\Debug\Presentación.Bodega.resources
+F:\Proyecto\Proyecto v6\Datos\Presentación\obj\Debug\Presentación.Cargo.resources
+F:\Proyecto\Proyecto v6\Datos\Presentación\obj\Debug\Presentación.Clientes.resources
+F:\Proyecto\Proyecto v6\Datos\Presentación\obj\Debug\Presentación.Compras.resources
+F:\Proyecto\Proyecto v6\Datos\Presentación\obj\Debug\Presentación.Contrato.resources
+F:\Proyecto\Proyecto v6\Datos\Presentación\obj\Debug\Presentación.Devolucion_producto.resources
+F:\Proyecto\Proyecto v6\Datos\Presentación\obj\Debug\Presentación.Empleados.resources
+F:\Proyecto\Proyecto v6\Datos\Presentación\obj\Debug\Presentación.Estado.resources
+F:\Proyecto\Proyecto v6\Datos\Presentación\obj\Debug\Presentación.Forma_pago.resources
+F:\Proyecto\Proyecto v6\Datos\Presentación\obj\Debug\Presentación.Garantías.resources
+F:\Proyecto\Proyecto v6\Datos\Presentación\obj\Debug\Presentación.Iniciar_Sesión.resources
+F:\Proyecto\Proyecto v6\Datos\Presentación\obj\Debug\Presentación.Inventario.resources
+F:\Proyecto\Proyecto v6\Datos\Presentación\obj\Debug\Presentación.Mensaje_bienvenidos.resources
+F:\Proyecto\Proyecto v6\Datos\Presentación\obj\Debug\Presentación.Menu_Principal.resources
+F:\Proyecto\Proyecto v6\Datos\Presentación\obj\Debug\Presentación.Productos.resources
+F:\Proyecto\Proyecto v6\Datos\Presentación\obj\Debug\Presentación.Properties.Resources.resources
+F:\Proyecto\Proyecto v6\Datos\Presentación\obj\Debug\Presentación.Proveedores.resources
+F:\Proyecto\Proyecto v6\Datos\Presentación\obj\Debug\Presentación.Tipo_presentacion.resources
+F:\Proyecto\Proyecto v6\Datos\Presentación\obj\Debug\Presentación.Usuarios.resources
+F:\Proyecto\Proyecto v6\Datos\Presentación\obj\Debug\Presentación.Ventas.resources
+F:\Proyecto\Proyecto v6\Datos\Presentación\obj\Debug\Presentación.csproj.GenerateResource.Cache
+F:\ONCE\Proyectos\Proyecto v7\Proyecto v6\Datos\Presentación\bin\Debug\Presentación.exe.config
+F:\ONCE\Proyectos\Proyecto v7\Proyecto v6\Datos\Presentación\obj\Debug\Presentación.exe
+F:\ONCE\Proyectos\Proyecto v7\Proyecto v6\Datos\Presentación\obj\Debug\Presentación.pdb
+G:\ONCE\Proyectos\Proyecto v7\Proyecto v6\Datos\Presentación\bin\Debug\Presentación.exe.config
+G:\ONCE\Proyectos\Proyecto v7\Proyecto v6\Datos\Presentación\obj\Debug\Presentación.exe
+G:\ONCE\Proyectos\Proyecto v7\Proyecto v6\Datos\Presentación\obj\Debug\Presentación.pdb
+F:\ONCE\Proyectos\Proyecto v7\Proyecto v6\Datos\Presentación\obj\Debug\Presentación.csprojResolveAssemblyReference.cache
+F:\ONCE\Proyectos\Proyecto v7\Proyecto v6\Datos\Presentación\obj\Debug\Presentación.arreglos.resources
+F:\ONCE\Proyectos\Proyecto v7\Proyecto v6\Datos\Presentación\obj\Debug\Presentación.Bienvenidos.resources
+F:\ONCE\Proyectos\Proyecto v7\Proyecto v6\Datos\Presentación\obj\Debug\Presentación.Bodega.resources
+F:\ONCE\Proyectos\Proyecto v7\Proyecto v6\Datos\Presentación\obj\Debug\Presentación.Cargo.resources
+F:\ONCE\Proyectos\Proyecto v7\Proyecto v6\Datos\Presentación\obj\Debug\Presentación.Clientes.resources
+F:\ONCE\Proyectos\Proyecto v7\Proyecto v6\Datos\Presentación\obj\Debug\Presentación.Compras.resources
+F:\ONCE\Proyectos\Proyecto v7\Proyecto v6\Datos\Presentación\obj\Debug\Presentación.Contrato.resources
+F:\ONCE\Proyectos\Proyecto v7\Proyecto v6\Datos\Presentación\obj\Debug\Presentación.Devolucion_producto.resources
+F:\ONCE\Proyectos\Proyecto v7\Proyecto v6\Datos\Presentación\obj\Debug\Presentación.Empleados.resources
+F:\ONCE\Proyectos\Proyecto v7\Proyecto v6\Datos\Presentación\obj\Debug\Presentación.Estado.resources
+F:\ONCE\Proyectos\Proyecto v7\Proyecto v6\Datos\Presentación\obj\Debug\Presentación.Forma_pago.resources
+F:\ONCE\Proyectos\Proyecto v7\Proyecto v6\Datos\Presentación\obj\Debug\Presentación.Garantías.resources
+F:\ONCE\Proyectos\Proyecto v7\Proyecto v6\Datos\Presentación\obj\Debug\Presentación.Iniciar_Sesión.resources
+F:\ONCE\Proyectos\Proyecto v7\Proyecto v6\Datos\Presentación\obj\Debug\Presentación.Inventario.resources
+F:\ONCE\Proyectos\Proyecto v7\Proyecto v6\Datos\Presentación\obj\Debug\Presentación.Mensaje_bienvenidos.resources
+F:\ONCE\Proyectos\Proyecto v7\Proyecto v6\Datos\Presentación\obj\Debug\Presentación.Menu_Principal.resources
+F:\ONCE\Proyectos\Proyecto v7\Proyecto v6\Datos\Presentación\obj\Debug\Presentación.Productos.resources
+F:\ONCE\Proyectos\Proyecto v7\Proyecto v6\Datos\Presentación\obj\Debug\Presentación.Properties.Resources.resources
+F:\ONCE\Proyectos\Proyecto v7\Proyecto v6\Datos\Presentación\obj\Debug\Presentación.Proveedores.resources
+F:\ONCE\Proyectos\Proyecto v7\Proyecto v6\Datos\Presentación\obj\Debug\Presentación.Tipo_presentacion.resources
+F:\ONCE\Proyectos\Proyecto v7\Proyecto v6\Datos\Presentación\obj\Debug\Presentación.Usuarios.resources
+F:\ONCE\Proyectos\Proyecto v7\Proyecto v6\Datos\Presentación\obj\Debug\Presentación.Ventas.resources
+F:\ONCE\Proyectos\Proyecto v7\Proyecto v6\Datos\Presentación\obj\Debug\Presentación.csproj.GenerateResource.Cache
+F:\Proyecto\Proyecto v7\Datos\Presentación\bin\Debug\Presentación.exe.config
+F:\Proyecto\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.exe
+F:\Proyecto\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.csprojResolveAssemblyReference.cache
+F:\Proyecto\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.arreglos.resources
+F:\Proyecto\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Bienvenidos.resources
+F:\Proyecto\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Bodega.resources
+F:\Proyecto\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Cargo.resources
+F:\Proyecto\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Clientes.resources
+F:\Proyecto\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Compras.resources
+F:\Proyecto\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Contrato.resources
+F:\Proyecto\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Devolucion_producto.resources
+F:\Proyecto\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Empleados.resources
+F:\Proyecto\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Estado.resources
+F:\Proyecto\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Forma_pago.resources
+F:\Proyecto\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Garantías.resources
+F:\Proyecto\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Iniciar_Sesión.resources
+F:\Proyecto\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Inventario.resources
+F:\Proyecto\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Mensaje_bienvenidos.resources
+F:\Proyecto\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Menu_Principal.resources
+F:\Proyecto\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Productos.resources
+F:\Proyecto\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Properties.Resources.resources
+F:\Proyecto\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Proveedores.resources
+F:\Proyecto\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Tipo_presentacion.resources
+F:\Proyecto\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Usuarios.resources
+F:\Proyecto\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Ventas.resources
+F:\Proyecto\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.csproj.GenerateResource.Cache
+F:\ONCE\Proyectos\Proyecto v7\Datos\Presentación\bin\Debug\Presentación.exe.config
+F:\ONCE\Proyectos\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.exe
+F:\ONCE\Proyectos\Proyecto v7\Datos\Presentación\bin\Debug\Presentación.exe
+F:\ONCE\Proyectos\Proyecto v7\Datos\Presentación\bin\Debug\Presentación.pdb
+F:\ONCE\Proyectos\Proyecto v7\Datos\Presentación\bin\Debug\Datos.dll
+F:\ONCE\Proyectos\Proyecto v7\Datos\Presentación\bin\Debug\Lógica.dll
+F:\ONCE\Proyectos\Proyecto v7\Datos\Presentación\bin\Debug\Datos.pdb
+F:\ONCE\Proyectos\Proyecto v7\Datos\Presentación\bin\Debug\Lógica.pdb
+F:\ONCE\Proyectos\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.csprojResolveAssemblyReference.cache
+F:\ONCE\Proyectos\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.arreglos.resources
+F:\ONCE\Proyectos\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Bienvenidos.resources
+F:\ONCE\Proyectos\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Bodega.resources
+F:\ONCE\Proyectos\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Cargo.resources
+F:\ONCE\Proyectos\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Clientes.resources
+F:\ONCE\Proyectos\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Compras.resources
+F:\ONCE\Proyectos\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Contrato.resources
+F:\ONCE\Proyectos\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Devolucion_producto.resources
+F:\ONCE\Proyectos\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Empleados.resources
+F:\ONCE\Proyectos\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Estado.resources
+F:\ONCE\Proyectos\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Forma_pago.resources
+F:\ONCE\Proyectos\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Garantías.resources
+F:\ONCE\Proyectos\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Iniciar_Sesión.resources
+F:\ONCE\Proyectos\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Inventario.resources
+F:\ONCE\Proyectos\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Mensaje_bienvenidos.resources
+F:\ONCE\Proyectos\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Menu_Principal.resources
+F:\ONCE\Proyectos\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Productos.resources
+F:\ONCE\Proyectos\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Properties.Resources.resources
+F:\ONCE\Proyectos\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Proveedores.resources
+F:\ONCE\Proyectos\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Tipo_presentacion.resources
+F:\ONCE\Proyectos\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Usuarios.resources
+F:\ONCE\Proyectos\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Ventas.resources
+F:\ONCE\Proyectos\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.csproj.GenerateResource.Cache
+F:\ONCE\Proyectos\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.pdb
+G:\ONCE\Proyectos\Proyecto v7\Datos\Presentación\bin\Debug\Presentación.exe.config
+G:\ONCE\Proyectos\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.exe
+G:\ONCE\Proyectos\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.pdb
+G:\ONCE\Proyectos\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.csprojResolveAssemblyReference.cache
+G:\ONCE\Proyectos\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.arreglos.resources
+G:\ONCE\Proyectos\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Bienvenidos.resources
+G:\ONCE\Proyectos\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Bodega.resources
+G:\ONCE\Proyectos\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Cargo.resources
+G:\ONCE\Proyectos\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Clientes.resources
+G:\ONCE\Proyectos\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Compras.resources
+G:\ONCE\Proyectos\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Contrato.resources
+G:\ONCE\Proyectos\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Devolucion_producto.resources
+G:\ONCE\Proyectos\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Empleados.resources
+G:\ONCE\Proyectos\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Estado.resources
+G:\ONCE\Proyectos\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Forma_pago.resources
+G:\ONCE\Proyectos\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Garantías.resources
+G:\ONCE\Proyectos\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Iniciar_Sesión.resources
+G:\ONCE\Proyectos\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Inventario.resources
+G:\ONCE\Proyectos\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Mensaje_bienvenidos.resources
+G:\ONCE\Proyectos\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Menu_Principal.resources
+G:\ONCE\Proyectos\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Productos.resources
+G:\ONCE\Proyectos\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Properties.Resources.resources
+G:\ONCE\Proyectos\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Proveedores.resources
+G:\ONCE\Proyectos\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Tipo_presentacion.resources
+G:\ONCE\Proyectos\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Usuarios.resources
+G:\ONCE\Proyectos\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Ventas.resources
+G:\ONCE\Proyectos\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.csproj.GenerateResource.Cache
+G:\ONCE\Proyectos\Proyecto v7\Datos\Presentación\bin\Debug\Presentación.exe
+G:\ONCE\Proyectos\Proyecto v7\Datos\Presentación\bin\Debug\Presentación.pdb
+G:\ONCE\Proyectos\Proyecto v7\Datos\Presentación\bin\Debug\Datos.dll
+G:\ONCE\Proyectos\Proyecto v7\Datos\Presentación\bin\Debug\Lógica.dll
+G:\ONCE\Proyectos\Proyecto v7\Datos\Presentación\bin\Debug\Datos.pdb
+G:\ONCE\Proyectos\Proyecto v7\Datos\Presentación\bin\Debug\Lógica.pdb
+E:\ONCE\Proyectos\Proyecto v7\Datos\Presentación\bin\Debug\Presentación.exe.config
+E:\ONCE\Proyectos\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.exe
+E:\ONCE\Proyectos\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.pdb
+G:\Proyecto\Proyecto v8\Proyecto v7\Datos\Presentación\bin\Debug\Presentación.exe.config
+G:\Proyecto\Proyecto v8\Proyecto v7\Datos\Presentación\bin\Debug\Presentación.exe
+G:\Proyecto\Proyecto v8\Proyecto v7\Datos\Presentación\bin\Debug\Presentación.pdb
+G:\Proyecto\Proyecto v8\Proyecto v7\Datos\Presentación\bin\Debug\Datos.dll
+G:\Proyecto\Proyecto v8\Proyecto v7\Datos\Presentación\bin\Debug\Lógica.dll
+G:\Proyecto\Proyecto v8\Proyecto v7\Datos\Presentación\bin\Debug\Datos.pdb
+G:\Proyecto\Proyecto v8\Proyecto v7\Datos\Presentación\bin\Debug\Lógica.pdb
+G:\Proyecto\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.csprojResolveAssemblyReference.cache
+G:\Proyecto\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.arreglos.resources
+G:\Proyecto\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Bienvenidos.resources
+G:\Proyecto\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Bodega.resources
+G:\Proyecto\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Cargo.resources
+G:\Proyecto\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Clientes.resources
+G:\Proyecto\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Compras.resources
+G:\Proyecto\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Contrato.resources
+G:\Proyecto\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Devolucion_producto.resources
+G:\Proyecto\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Empleados.resources
+G:\Proyecto\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Estado.resources
+G:\Proyecto\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Forma_pago.resources
+G:\Proyecto\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Garantías.resources
+G:\Proyecto\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Iniciar_Sesión.resources
+G:\Proyecto\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Inventario.resources
+G:\Proyecto\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Mensaje_bienvenidos.resources
+G:\Proyecto\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Menu_Principal.resources
+G:\Proyecto\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Productos.resources
+G:\Proyecto\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Properties.Resources.resources
+G:\Proyecto\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Proveedores.resources
+G:\Proyecto\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Tipo_presentacion.resources
+G:\Proyecto\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Usuarios.resources
+G:\Proyecto\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Ventas.resources
+G:\Proyecto\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.csproj.GenerateResource.Cache
+G:\Proyecto\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.exe
+G:\Proyecto\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.pdb
+F:\Proyecto\Proyecto v8\Proyecto v7\Datos\Presentación\bin\Debug\Presentación.exe.config
+F:\Proyecto\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.exe
+F:\Proyecto\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.pdb
+F:\Proyecto\Proyecto v8\Proyecto v7\Datos\Presentación\bin\Debug\Presentación.exe
+F:\Proyecto\Proyecto v8\Proyecto v7\Datos\Presentación\bin\Debug\Presentación.pdb
+F:\Proyecto\Proyecto v8\Proyecto v7\Datos\Presentación\bin\Debug\Datos.dll
+F:\Proyecto\Proyecto v8\Proyecto v7\Datos\Presentación\bin\Debug\Lógica.dll
+F:\Proyecto\Proyecto v8\Proyecto v7\Datos\Presentación\bin\Debug\Datos.pdb
+F:\Proyecto\Proyecto v8\Proyecto v7\Datos\Presentación\bin\Debug\Lógica.pdb
+F:\Proyecto\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.csprojResolveAssemblyReference.cache
+F:\Proyecto\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.arreglos.resources
+F:\Proyecto\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Bienvenidos.resources
+F:\Proyecto\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Bodega.resources
+F:\Proyecto\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Cargo.resources
+F:\Proyecto\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Clientes.resources
+F:\Proyecto\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Compras.resources
+F:\Proyecto\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Contrato.resources
+F:\Proyecto\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Devolucion_producto.resources
+F:\Proyecto\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Empleados.resources
+F:\Proyecto\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Estado.resources
+F:\Proyecto\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Forma_pago.resources
+F:\Proyecto\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Garantías.resources
+F:\Proyecto\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Iniciar_Sesión.resources
+F:\Proyecto\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Inventario.resources
+F:\Proyecto\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Mensaje_bienvenidos.resources
+F:\Proyecto\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Menu_Principal.resources
+F:\Proyecto\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Productos.resources
+F:\Proyecto\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Properties.Resources.resources
+F:\Proyecto\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Proveedores.resources
+F:\Proyecto\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Tipo_presentacion.resources
+F:\Proyecto\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Usuarios.resources
+F:\Proyecto\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Ventas.resources
+F:\Proyecto\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.csproj.GenerateResource.Cache
+G:\Proyecto\Nueva carpeta\Proyecto v8\Proyecto v7\Datos\Presentación\bin\Debug\Presentación.exe.config
+G:\Proyecto\Nueva carpeta\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.exe
+G:\Proyecto\Nueva carpeta\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.pdb
+G:\Proyecto\Nueva carpeta\Proyecto v8\Proyecto v7\Datos\Presentación\bin\Debug\Presentación.exe
+G:\Proyecto\Nueva carpeta\Proyecto v8\Proyecto v7\Datos\Presentación\bin\Debug\Presentación.pdb
+G:\Proyecto\Nueva carpeta\Proyecto v8\Proyecto v7\Datos\Presentación\bin\Debug\Datos.dll
+G:\Proyecto\Nueva carpeta\Proyecto v8\Proyecto v7\Datos\Presentación\bin\Debug\Lógica.dll
+G:\Proyecto\Nueva carpeta\Proyecto v8\Proyecto v7\Datos\Presentación\bin\Debug\Datos.pdb
+G:\Proyecto\Nueva carpeta\Proyecto v8\Proyecto v7\Datos\Presentación\bin\Debug\Lógica.pdb
+G:\Proyecto\Nueva carpeta\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.csprojResolveAssemblyReference.cache
+G:\Proyecto\Nueva carpeta\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.arreglos.resources
+G:\Proyecto\Nueva carpeta\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Bienvenidos.resources
+G:\Proyecto\Nueva carpeta\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Bodega.resources
+G:\Proyecto\Nueva carpeta\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Cargo.resources
+G:\Proyecto\Nueva carpeta\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Clientes.resources
+G:\Proyecto\Nueva carpeta\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Compras.resources
+G:\Proyecto\Nueva carpeta\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Contrato.resources
+G:\Proyecto\Nueva carpeta\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Devolucion_producto.resources
+G:\Proyecto\Nueva carpeta\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Empleados.resources
+G:\Proyecto\Nueva carpeta\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Estado.resources
+G:\Proyecto\Nueva carpeta\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Forma_pago.resources
+G:\Proyecto\Nueva carpeta\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Garantías.resources
+G:\Proyecto\Nueva carpeta\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Iniciar_Sesión.resources
+G:\Proyecto\Nueva carpeta\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Inventario.resources
+G:\Proyecto\Nueva carpeta\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Mensaje_bienvenidos.resources
+G:\Proyecto\Nueva carpeta\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Menu_Principal.resources
+G:\Proyecto\Nueva carpeta\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Productos.resources
+G:\Proyecto\Nueva carpeta\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Properties.Resources.resources
+G:\Proyecto\Nueva carpeta\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Proveedores.resources
+G:\Proyecto\Nueva carpeta\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Tipo_presentacion.resources
+G:\Proyecto\Nueva carpeta\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Usuarios.resources
+G:\Proyecto\Nueva carpeta\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Ventas.resources
+G:\Proyecto\Nueva carpeta\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.csproj.GenerateResource.Cache
+G:\Proyecto\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\bin\Debug\Presentación.exe.config
+G:\Proyecto\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.exe
+G:\Proyecto\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.pdb
+G:\Proyecto\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\bin\Debug\Presentación.exe
+G:\Proyecto\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\bin\Debug\Presentación.pdb
+G:\Proyecto\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\bin\Debug\Datos.dll
+G:\Proyecto\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\bin\Debug\Lógica.dll
+G:\Proyecto\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\bin\Debug\Datos.pdb
+G:\Proyecto\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\bin\Debug\Lógica.pdb
+G:\Proyecto\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.csprojResolveAssemblyReference.cache
+G:\Proyecto\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.arreglos.resources
+G:\Proyecto\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Bienvenidos.resources
+G:\Proyecto\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Bodega.resources
+G:\Proyecto\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Cargo.resources
+G:\Proyecto\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Clientes.resources
+G:\Proyecto\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Compras.resources
+G:\Proyecto\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Contrato.resources
+G:\Proyecto\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Devolucion_producto.resources
+G:\Proyecto\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Empleados.resources
+G:\Proyecto\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Estado.resources
+G:\Proyecto\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Forma_pago.resources
+G:\Proyecto\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Garantías.resources
+G:\Proyecto\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Iniciar_Sesión.resources
+G:\Proyecto\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Inventario.resources
+G:\Proyecto\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Mensaje_bienvenidos.resources
+G:\Proyecto\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Menu_Principal.resources
+G:\Proyecto\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Productos.resources
+G:\Proyecto\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Properties.Resources.resources
+G:\Proyecto\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Proveedores.resources
+G:\Proyecto\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Tipo_presentacion.resources
+G:\Proyecto\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Usuarios.resources
+G:\Proyecto\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Ventas.resources
+G:\Proyecto\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.csproj.GenerateResource.Cache
+F:\Proyecto\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\bin\Debug\Presentación.exe.config
+F:\Proyecto\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.exe
+F:\Proyecto\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.pdb
+F:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\bin\Debug\Presentación.exe.config
+F:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.exe
+F:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.pdb
+F:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\bin\Debug\Presentación.exe
+F:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\bin\Debug\Presentación.pdb
+F:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\bin\Debug\Datos.dll
+F:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\bin\Debug\Lógica.dll
+F:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\bin\Debug\Datos.pdb
+F:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\bin\Debug\Lógica.pdb
+F:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.csprojResolveAssemblyReference.cache
+F:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.arreglos.resources
+F:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Bienvenidos.resources
+F:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Bodega.resources
+F:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Cargo.resources
+F:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Clientes.resources
+F:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Compras.resources
+F:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Contrato.resources
+F:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Devolucion_producto.resources
+F:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Empleados.resources
+F:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Estado.resources
+F:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Forma_pago.resources
+F:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Garantías.resources
+F:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Iniciar_Sesión.resources
+F:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Inventario.resources
+F:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Mensaje_bienvenidos.resources
+F:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Productos.resources
+F:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Properties.Resources.resources
+F:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Proveedores.resources
+F:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Tipo_presentacion.resources
+F:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Usuarios.resources
+F:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Ventas.resources
+F:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.csproj.GenerateResource.Cache
+F:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Menu_principal.resources
+G:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\bin\Debug\Presentación.exe.config
+G:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.exe
+G:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.pdb
+G:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\bin\Debug\Presentación.exe
+G:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\bin\Debug\Presentación.pdb
+G:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\bin\Debug\Datos.dll
+G:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\bin\Debug\Lógica.dll
+G:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\bin\Debug\Datos.pdb
+G:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\bin\Debug\Lógica.pdb
+G:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.csprojResolveAssemblyReference.cache
+G:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.arreglos.resources
+G:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Bienvenidos.resources
+G:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Bodega.resources
+G:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Cargo.resources
+G:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Clientes.resources
+G:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Compras.resources
+G:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Contrato.resources
+G:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Devolucion_producto.resources
+G:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Empleados.resources
+G:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Estado.resources
+G:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Forma_pago.resources
+G:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Garantías.resources
+G:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Iniciar_Sesión.resources
+G:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Inventario.resources
+G:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Mensaje_bienvenidos.resources
+G:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Menu_principal.resources
+G:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Productos.resources
+G:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Properties.Resources.resources
+G:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Proveedores.resources
+G:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Tipo_presentacion.resources
+G:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Usuarios.resources
+G:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Ventas.resources
+G:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.csproj.GenerateResource.Cache
+E:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\bin\Debug\Presentación.exe.config
+E:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.exe
+E:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.pdb
+E:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.csprojResolveAssemblyReference.cache
+E:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.arreglos.resources
+E:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Bienvenidos.resources
+E:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Bodega.resources
+E:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Cargo.resources
+E:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Clientes.resources
+E:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Compras.resources
+E:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Contrato.resources
+E:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Devolucion_producto.resources
+E:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Empleados.resources
+E:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Estado.resources
+E:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Forma_pago.resources
+E:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Garantías.resources
+E:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Iniciar_Sesión.resources
+E:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Inventario.resources
+E:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Mensaje_bienvenidos.resources
+E:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Menu_principal.resources
+E:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Productos.resources
+E:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Properties.Resources.resources
+E:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Proveedores.resources
+E:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Tipo_presentacion.resources
+E:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Usuarios.resources
+E:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Ventas.resources
+E:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.csproj.GenerateResource.Cache
+E:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\bin\Debug\Presentación.exe
+E:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\bin\Debug\Presentación.pdb
+E:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\bin\Debug\Datos.dll
+E:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\bin\Debug\Lógica.dll
+E:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\bin\Debug\Datos.pdb
+E:\Proyecto\PROYECTOSP\Proyecto v9\Proyecto v8\Proyecto v7\Datos\Presentación\bin\Debug\Lógica.pdb
+E:\ONCE\Proyectos\proyecto v10\Proyecto v7\Proyecto v7\Datos\Presentación\bin\Debug\Presentación.exe.config
+E:\ONCE\Proyectos\proyecto v10\Proyecto v7\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.exe
+E:\ONCE\Proyectos\proyecto v10\Proyecto v7\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.pdb
+F:\Proyecto\Proyecto 10\proyecto v10\Proyecto v7\Proyecto v7\Datos\Presentación\bin\Debug\Presentación.exe.config
+F:\Proyecto\Proyecto 10\proyecto v10\Proyecto v7\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.exe
+F:\Proyecto\Proyecto 10\proyecto v10\Proyecto v7\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.pdb
+F:\Proyecto\Proyecto 10\proyecto v10\Proyecto v7\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.csprojResolveAssemblyReference.cache
+F:\Proyecto\Proyecto 10\proyecto v10\Proyecto v7\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.arreglos.resources
+F:\Proyecto\Proyecto 10\proyecto v10\Proyecto v7\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Bienvenidos.resources
+F:\Proyecto\Proyecto 10\proyecto v10\Proyecto v7\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Bodega.resources
+F:\Proyecto\Proyecto 10\proyecto v10\Proyecto v7\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Cargo.resources
+F:\Proyecto\Proyecto 10\proyecto v10\Proyecto v7\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Clientes.resources
+F:\Proyecto\Proyecto 10\proyecto v10\Proyecto v7\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Compras.resources
+F:\Proyecto\Proyecto 10\proyecto v10\Proyecto v7\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Contrato.resources
+F:\Proyecto\Proyecto 10\proyecto v10\Proyecto v7\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Devolucion_producto.resources
+F:\Proyecto\Proyecto 10\proyecto v10\Proyecto v7\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Empleados.resources
+F:\Proyecto\Proyecto 10\proyecto v10\Proyecto v7\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Estado.resources
+F:\Proyecto\Proyecto 10\proyecto v10\Proyecto v7\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Forma_pago.resources
+F:\Proyecto\Proyecto 10\proyecto v10\Proyecto v7\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Garantías.resources
+F:\Proyecto\Proyecto 10\proyecto v10\Proyecto v7\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Iniciar_Sesión.resources
+F:\Proyecto\Proyecto 10\proyecto v10\Proyecto v7\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Inventario.resources
+F:\Proyecto\Proyecto 10\proyecto v10\Proyecto v7\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Mensaje_bienvenidos.resources
+F:\Proyecto\Proyecto 10\proyecto v10\Proyecto v7\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Menu_principal.resources
+F:\Proyecto\Proyecto 10\proyecto v10\Proyecto v7\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Productos.resources
+F:\Proyecto\Proyecto 10\proyecto v10\Proyecto v7\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Properties.Resources.resources
+F:\Proyecto\Proyecto 10\proyecto v10\Proyecto v7\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Proveedores.resources
+F:\Proyecto\Proyecto 10\proyecto v10\Proyecto v7\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Tipo_presentacion.resources
+F:\Proyecto\Proyecto 10\proyecto v10\Proyecto v7\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Usuarios.resources
+F:\Proyecto\Proyecto 10\proyecto v10\Proyecto v7\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Ventas.resources
+F:\Proyecto\Proyecto 10\proyecto v10\Proyecto v7\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.csproj.GenerateResource.Cache
+F:\Proyecto\Proyecto 10\proyecto v10\Proyecto v7\Proyecto v7\Datos\Presentación\bin\Debug\Presentación.exe
+F:\Proyecto\Proyecto 10\proyecto v10\Proyecto v7\Proyecto v7\Datos\Presentación\bin\Debug\Presentación.pdb
+F:\Proyecto\Proyecto 10\proyecto v10\Proyecto v7\Proyecto v7\Datos\Presentación\bin\Debug\Datos.dll
+F:\Proyecto\Proyecto 10\proyecto v10\Proyecto v7\Proyecto v7\Datos\Presentación\bin\Debug\Lógica.dll
+F:\Proyecto\Proyecto 10\proyecto v10\Proyecto v7\Proyecto v7\Datos\Presentación\bin\Debug\Datos.pdb
+F:\Proyecto\Proyecto 10\proyecto v10\Proyecto v7\Proyecto v7\Datos\Presentación\bin\Debug\Lógica.pdb
+E:\ONCE\Proyectos\proyecto v10\Proyecto 10\proyecto v10\Proyecto v7\Proyecto v7\Datos\Presentación\bin\Debug\Presentación.exe.config
+E:\ONCE\Proyectos\proyecto v10\Proyecto 10\proyecto v10\Proyecto v7\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.exe
+E:\ONCE\Proyectos\proyecto v10\Proyecto 10\proyecto v10\Proyecto v7\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.pdb
+E:\PROYECTOS\PROYECTO V11\proyecto v10\Proyecto 10\proyecto v10\Proyecto v7\Proyecto v7\Datos\Presentación\bin\Debug\Presentación.exe.config
+E:\PROYECTOS\PROYECTO V11\proyecto v10\Proyecto 10\proyecto v10\Proyecto v7\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.exe
+E:\PROYECTOS\PROYECTO V11\proyecto v10\Proyecto 10\proyecto v10\Proyecto v7\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.pdb
+E:\PROYECTOS\PROYECTO V11\proyecto v10\Proyecto 10\proyecto v10\Proyecto v7\Proyecto v7\Datos\Presentación\bin\Debug\Presentación.exe
+E:\PROYECTOS\PROYECTO V11\proyecto v10\Proyecto 10\proyecto v10\Proyecto v7\Proyecto v7\Datos\Presentación\bin\Debug\Presentación.pdb
+E:\PROYECTOS\PROYECTO V11\proyecto v10\Proyecto 10\proyecto v10\Proyecto v7\Proyecto v7\Datos\Presentación\bin\Debug\Datos.dll
+E:\PROYECTOS\PROYECTO V11\proyecto v10\Proyecto 10\proyecto v10\Proyecto v7\Proyecto v7\Datos\Presentación\bin\Debug\Lógica.dll
+E:\PROYECTOS\PROYECTO V11\proyecto v10\Proyecto 10\proyecto v10\Proyecto v7\Proyecto v7\Datos\Presentación\bin\Debug\Datos.pdb
+E:\PROYECTOS\PROYECTO V11\proyecto v10\Proyecto 10\proyecto v10\Proyecto v7\Proyecto v7\Datos\Presentación\bin\Debug\Lógica.pdb
+E:\PROYECTOS\PROYECTO V11\proyecto v10\Proyecto 10\proyecto v10\Proyecto v7\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.csprojResolveAssemblyReference.cache
+E:\PROYECTOS\PROYECTO V11\proyecto v10\Proyecto 10\proyecto v10\Proyecto v7\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Bienvenidos.resources
+E:\PROYECTOS\PROYECTO V11\proyecto v10\Proyecto 10\proyecto v10\Proyecto v7\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Bodega.resources
+E:\PROYECTOS\PROYECTO V11\proyecto v10\Proyecto 10\proyecto v10\Proyecto v7\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Cargo.resources
+E:\PROYECTOS\PROYECTO V11\proyecto v10\Proyecto 10\proyecto v10\Proyecto v7\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Clientes.resources
+E:\PROYECTOS\PROYECTO V11\proyecto v10\Proyecto 10\proyecto v10\Proyecto v7\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Compras.resources
+E:\PROYECTOS\PROYECTO V11\proyecto v10\Proyecto 10\proyecto v10\Proyecto v7\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Contrato.resources
+E:\PROYECTOS\PROYECTO V11\proyecto v10\Proyecto 10\proyecto v10\Proyecto v7\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Devolucion_producto.resources
+E:\PROYECTOS\PROYECTO V11\proyecto v10\Proyecto 10\proyecto v10\Proyecto v7\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Empleados.resources
+E:\PROYECTOS\PROYECTO V11\proyecto v10\Proyecto 10\proyecto v10\Proyecto v7\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Estado.resources
+E:\PROYECTOS\PROYECTO V11\proyecto v10\Proyecto 10\proyecto v10\Proyecto v7\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Forma_pago.resources
+E:\PROYECTOS\PROYECTO V11\proyecto v10\Proyecto 10\proyecto v10\Proyecto v7\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Garantías.resources
+E:\PROYECTOS\PROYECTO V11\proyecto v10\Proyecto 10\proyecto v10\Proyecto v7\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Iniciar_Sesión.resources
+E:\PROYECTOS\PROYECTO V11\proyecto v10\Proyecto 10\proyecto v10\Proyecto v7\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Inventario.resources
+E:\PROYECTOS\PROYECTO V11\proyecto v10\Proyecto 10\proyecto v10\Proyecto v7\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Mensaje_bienvenidos.resources
+E:\PROYECTOS\PROYECTO V11\proyecto v10\Proyecto 10\proyecto v10\Proyecto v7\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Menu_principal.resources
+E:\PROYECTOS\PROYECTO V11\proyecto v10\Proyecto 10\proyecto v10\Proyecto v7\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Productos.resources
+E:\PROYECTOS\PROYECTO V11\proyecto v10\Proyecto 10\proyecto v10\Proyecto v7\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Properties.Resources.resources
+E:\PROYECTOS\PROYECTO V11\proyecto v10\Proyecto 10\proyecto v10\Proyecto v7\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Proveedores.resources
+E:\PROYECTOS\PROYECTO V11\proyecto v10\Proyecto 10\proyecto v10\Proyecto v7\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Tipo_presentacion.resources
+E:\PROYECTOS\PROYECTO V11\proyecto v10\Proyecto 10\proyecto v10\Proyecto v7\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Usuarios.resources
+E:\PROYECTOS\PROYECTO V11\proyecto v10\Proyecto 10\proyecto v10\Proyecto v7\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.Ventas.resources
+E:\PROYECTOS\PROYECTO V11\proyecto v10\Proyecto 10\proyecto v10\Proyecto v7\Proyecto v7\Datos\Presentación\obj\Debug\Presentación.csproj.GenerateResource.Cache
+E:\PROYECTOS\PROYECTO V11\Ejecutable\Datos\Presentación\bin\Debug\Presentación.exe.config
+E:\PROYECTOS\PROYECTO V11\Ejecutable\Datos\Presentación\bin\Debug\Presentación.exe
+E:\PROYECTOS\PROYECTO V11\Ejecutable\Datos\Presentación\bin\Debug\Presentación.pdb
+E:\PROYECTOS\PROYECTO V11\Ejecutable\Datos\Presentación\bin\Debug\Datos.dll
+E:\PROYECTOS\PROYECTO V11\Ejecutable\Datos\Presentación\bin\Debug\Lógica.dll
+E:\PROYECTOS\PROYECTO V11\Ejecutable\Datos\Presentación\bin\Debug\Datos.pdb
+E:\PROYECTOS\PROYECTO V11\Ejecutable\Datos\Presentación\bin\Debug\Lógica.pdb
+E:\PROYECTOS\PROYECTO V11\Ejecutable\Datos\Presentación\obj\Debug\Presentación.csprojResolveAssemblyReference.cache
+E:\PROYECTOS\PROYECTO V11\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Bienvenidos.resources
+E:\PROYECTOS\PROYECTO V11\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Bodega.resources
+E:\PROYECTOS\PROYECTO V11\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Cargo.resources
+E:\PROYECTOS\PROYECTO V11\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Clientes.resources
+E:\PROYECTOS\PROYECTO V11\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Compras.resources
+E:\PROYECTOS\PROYECTO V11\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Contrato.resources
+E:\PROYECTOS\PROYECTO V11\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Devolucion_producto.resources
+E:\PROYECTOS\PROYECTO V11\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Empleados.resources
+E:\PROYECTOS\PROYECTO V11\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Estado.resources
+E:\PROYECTOS\PROYECTO V11\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Forma_pago.resources
+E:\PROYECTOS\PROYECTO V11\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Garantías.resources
+E:\PROYECTOS\PROYECTO V11\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Iniciar_Sesión.resources
+E:\PROYECTOS\PROYECTO V11\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Inventario.resources
+E:\PROYECTOS\PROYECTO V11\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Mensaje_bienvenidos.resources
+E:\PROYECTOS\PROYECTO V11\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Menu_principal.resources
+E:\PROYECTOS\PROYECTO V11\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Productos.resources
+E:\PROYECTOS\PROYECTO V11\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Properties.Resources.resources
+E:\PROYECTOS\PROYECTO V11\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Proveedores.resources
+E:\PROYECTOS\PROYECTO V11\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Tipo_presentacion.resources
+E:\PROYECTOS\PROYECTO V11\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Usuarios.resources
+E:\PROYECTOS\PROYECTO V11\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Ventas.resources
+E:\PROYECTOS\PROYECTO V11\Ejecutable\Datos\Presentación\obj\Debug\Presentación.csproj.GenerateResource.Cache
+E:\PROYECTOS\PROYECTO V11\Ejecutable\Datos\Presentación\obj\Debug\Presentación.exe
+E:\PROYECTOS\PROYECTO V11\Ejecutable\Datos\Presentación\obj\Debug\Presentación.pdb
+C:\Users\USER\Desktop\sena\proyecto\PROYECTO V11\PROYECTO V11\Ejecutable\Datos\Presentación\bin\Debug\Presentación.exe.config
+C:\Users\USER\Desktop\sena\proyecto\PROYECTO V11\PROYECTO V11\Ejecutable\Datos\Presentación\obj\Debug\Presentación.exe
+C:\Users\USER\Desktop\sena\proyecto\PROYECTO V11\PROYECTO V11\Ejecutable\Datos\Presentación\obj\Debug\Presentación.pdb
+F:\PROYECTOS\Proyecto v12\Ejecutable\Datos\Presentación\bin\Debug\Presentación.exe.config
+F:\PROYECTOS\Proyecto v12\Ejecutable\Datos\Presentación\obj\Debug\Presentación.exe
+F:\PROYECTOS\Proyecto v12\Ejecutable\Datos\Presentación\obj\Debug\Presentación.pdb
+F:\PROYECTOS\Proyecto v12\Ejecutable\Datos\Presentación\bin\Debug\Presentación.exe
+F:\PROYECTOS\Proyecto v12\Ejecutable\Datos\Presentación\bin\Debug\Presentación.pdb
+F:\PROYECTOS\Proyecto v12\Ejecutable\Datos\Presentación\bin\Debug\Datos.dll
+F:\PROYECTOS\Proyecto v12\Ejecutable\Datos\Presentación\bin\Debug\Lógica.dll
+F:\PROYECTOS\Proyecto v12\Ejecutable\Datos\Presentación\bin\Debug\Datos.pdb
+F:\PROYECTOS\Proyecto v12\Ejecutable\Datos\Presentación\bin\Debug\Lógica.pdb
+F:\PROYECTOS\Proyecto v12\Ejecutable\Datos\Presentación\obj\Debug\Presentación.csprojResolveAssemblyReference.cache
+F:\PROYECTOS\Proyecto v12\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Bienvenidos.resources
+F:\PROYECTOS\Proyecto v12\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Bodega.resources
+F:\PROYECTOS\Proyecto v12\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Cargo.resources
+F:\PROYECTOS\Proyecto v12\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Clientes.resources
+F:\PROYECTOS\Proyecto v12\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Compras.resources
+F:\PROYECTOS\Proyecto v12\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Contrato.resources
+F:\PROYECTOS\Proyecto v12\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Devolucion_producto.resources
+F:\PROYECTOS\Proyecto v12\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Empleados.resources
+F:\PROYECTOS\Proyecto v12\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Estado.resources
+F:\PROYECTOS\Proyecto v12\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Forma_pago.resources
+F:\PROYECTOS\Proyecto v12\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Garantías.resources
+F:\PROYECTOS\Proyecto v12\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Iniciar_Sesión.resources
+F:\PROYECTOS\Proyecto v12\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Inventario.resources
+F:\PROYECTOS\Proyecto v12\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Mensaje_bienvenidos.resources
+F:\PROYECTOS\Proyecto v12\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Menu_principal.resources
+F:\PROYECTOS\Proyecto v12\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Productos.resources
+F:\PROYECTOS\Proyecto v12\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Properties.Resources.resources
+F:\PROYECTOS\Proyecto v12\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Proveedores.resources
+F:\PROYECTOS\Proyecto v12\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Tipo_presentacion.resources
+F:\PROYECTOS\Proyecto v12\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Usuarios.resources
+F:\PROYECTOS\Proyecto v12\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Ventas.resources
+F:\PROYECTOS\Proyecto v12\Ejecutable\Datos\Presentación\obj\Debug\Presentación.csproj.GenerateResource.Cache
+E:\PROYECTOS\Proyecto v12\Ejecutable\Datos\Presentación\bin\Debug\Presentación.exe.config
+F:\PROYECTOS\Proyecto v13\Ejecutable\Datos\Presentación\bin\Debug\Presentación.exe.config
+E:\PROYECTOS\Proyecto v13\Ejecutable\Datos\Presentación\bin\Debug\Presentación.exe.config
+E:\PROYECTOS\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.csprojResolveAssemblyReference.cache
+E:\PROYECTOS\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Bienvenidos.resources
+E:\PROYECTOS\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Cargo.resources
+E:\PROYECTOS\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Clientes.resources
+E:\PROYECTOS\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Compras.resources
+E:\PROYECTOS\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Contrato.resources
+E:\PROYECTOS\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Devolucion_producto.resources
+E:\PROYECTOS\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Empleados.resources
+E:\PROYECTOS\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Estado.resources
+E:\PROYECTOS\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Forma_pago.resources
+E:\PROYECTOS\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Garantías.resources
+E:\PROYECTOS\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Iniciar_Sesión.resources
+E:\PROYECTOS\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Inventario.resources
+E:\PROYECTOS\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Mensaje_bienvenidos.resources
+E:\PROYECTOS\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Menu_principal.resources
+E:\PROYECTOS\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Productos.resources
+E:\PROYECTOS\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Properties.Resources.resources
+E:\PROYECTOS\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Proveedores.resources
+E:\PROYECTOS\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Tipo_presentacion.resources
+E:\PROYECTOS\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Usuarios.resources
+E:\PROYECTOS\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Ventas.resources
+E:\PROYECTOS\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.csproj.GenerateResource.Cache
+E:\PROYECTOS\Proyecto v13\Ejecutable\Datos\Presentación\bin\Debug\Presentación.exe
+E:\PROYECTOS\Proyecto v13\Ejecutable\Datos\Presentación\bin\Debug\Presentación.pdb
+E:\PROYECTOS\Proyecto v13\Ejecutable\Datos\Presentación\bin\Debug\Datos.dll
+E:\PROYECTOS\Proyecto v13\Ejecutable\Datos\Presentación\bin\Debug\Lógica.dll
+E:\PROYECTOS\Proyecto v13\Ejecutable\Datos\Presentación\bin\Debug\Datos.pdb
+E:\PROYECTOS\Proyecto v13\Ejecutable\Datos\Presentación\bin\Debug\Lógica.pdb
+E:\PROYECTOS\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.exe
+E:\PROYECTOS\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.pdb
+F:\PROYECTOS\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.exe
+F:\PROYECTOS\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.pdb
+F:\PROYECTOS\Proyecto v13\Ejecutable\Datos\Presentación\bin\Debug\Presentación.exe
+F:\PROYECTOS\Proyecto v13\Ejecutable\Datos\Presentación\bin\Debug\Presentación.pdb
+F:\PROYECTOS\Proyecto v13\Ejecutable\Datos\Presentación\bin\Debug\Datos.dll
+F:\PROYECTOS\Proyecto v13\Ejecutable\Datos\Presentación\bin\Debug\Lógica.dll
+F:\PROYECTOS\Proyecto v13\Ejecutable\Datos\Presentación\bin\Debug\Datos.pdb
+F:\PROYECTOS\Proyecto v13\Ejecutable\Datos\Presentación\bin\Debug\Lógica.pdb
+F:\PROYECTOS\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.csprojResolveAssemblyReference.cache
+F:\PROYECTOS\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Bienvenidos.resources
+F:\PROYECTOS\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Cargo.resources
+F:\PROYECTOS\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Clientes.resources
+F:\PROYECTOS\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Compras.resources
+F:\PROYECTOS\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Contrato.resources
+F:\PROYECTOS\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Devolucion_producto.resources
+F:\PROYECTOS\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Empleados.resources
+F:\PROYECTOS\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Estado.resources
+F:\PROYECTOS\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Forma_pago.resources
+F:\PROYECTOS\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Garantías.resources
+F:\PROYECTOS\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Iniciar_Sesión.resources
+F:\PROYECTOS\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Inventario.resources
+F:\PROYECTOS\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Mensaje_bienvenidos.resources
+F:\PROYECTOS\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Menu_principal.resources
+F:\PROYECTOS\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Productos.resources
+F:\PROYECTOS\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Properties.Resources.resources
+F:\PROYECTOS\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Proveedores.resources
+F:\PROYECTOS\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Tipo_presentacion.resources
+F:\PROYECTOS\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Usuarios.resources
+F:\PROYECTOS\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Ventas.resources
+F:\PROYECTOS\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.csproj.GenerateResource.Cache
+E:\PROYECTOS\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Empleado_general.resources
+E:\PROYECTOS\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Empleado_Especifico.resources
+E:\PROYECTOS\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Cliente_general.resources
+E:\PROYECTOS\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Cliente_Especifico.resources
+E:\PROYECTOS\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Productos_Reporte.resources
+E:\PROYECTOS\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.RPTFactura_venta.resources
+E:\PROYECTOS\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Reportes.resources
+E:\PROYECTOS\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.RPTDevolucion.resources
+E:\PROYECTOS\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.RPTFactura_compra.resources
+E:\PROYECTOS\PROYECTO_APO\Proyecto v13\Ejecutable\Datos\Presentación\bin\Debug\Presentación.exe.config
+E:\PROYECTOS\PROYECTO_APO\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.exe
+E:\PROYECTOS\PROYECTO_APO\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.pdb
+E:\PROYECTOS\PROYECTO_APO\Proyecto v13\Ejecutable\Datos\Presentación\bin\Debug\Presentación.exe
+E:\PROYECTOS\PROYECTO_APO\Proyecto v13\Ejecutable\Datos\Presentación\bin\Debug\Presentación.pdb
+E:\PROYECTOS\PROYECTO_APO\Proyecto v13\Ejecutable\Datos\Presentación\bin\Debug\Datos.dll
+E:\PROYECTOS\PROYECTO_APO\Proyecto v13\Ejecutable\Datos\Presentación\bin\Debug\Lógica.dll
+E:\PROYECTOS\PROYECTO_APO\Proyecto v13\Ejecutable\Datos\Presentación\bin\Debug\Datos.pdb
+E:\PROYECTOS\PROYECTO_APO\Proyecto v13\Ejecutable\Datos\Presentación\bin\Debug\Lógica.pdb
+E:\PROYECTOS\PROYECTO_APO\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.csprojResolveAssemblyReference.cache
+E:\PROYECTOS\PROYECTO_APO\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Bienvenidos.resources
+E:\PROYECTOS\PROYECTO_APO\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Cargo.resources
+E:\PROYECTOS\PROYECTO_APO\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Clientes.resources
+E:\PROYECTOS\PROYECTO_APO\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Cliente_Especifico.resources
+E:\PROYECTOS\PROYECTO_APO\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Cliente_general.resources
+E:\PROYECTOS\PROYECTO_APO\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Compras.resources
+E:\PROYECTOS\PROYECTO_APO\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Contrato.resources
+E:\PROYECTOS\PROYECTO_APO\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Empleado_Especifico.resources
+E:\PROYECTOS\PROYECTO_APO\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Empleado_general.resources
+E:\PROYECTOS\PROYECTO_APO\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Productos_Reporte.resources
+E:\PROYECTOS\PROYECTO_APO\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Reportes.resources
+E:\PROYECTOS\PROYECTO_APO\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.RPTDevolucion.resources
+E:\PROYECTOS\PROYECTO_APO\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.RPTFactura_compra.resources
+E:\PROYECTOS\PROYECTO_APO\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.RPTFactura_venta.resources
+E:\PROYECTOS\PROYECTO_APO\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Devolucion_producto.resources
+E:\PROYECTOS\PROYECTO_APO\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Empleados.resources
+E:\PROYECTOS\PROYECTO_APO\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Estado.resources
+E:\PROYECTOS\PROYECTO_APO\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Forma_pago.resources
+E:\PROYECTOS\PROYECTO_APO\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Garantías.resources
+E:\PROYECTOS\PROYECTO_APO\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Iniciar_Sesión.resources
+E:\PROYECTOS\PROYECTO_APO\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Inventario.resources
+E:\PROYECTOS\PROYECTO_APO\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Mensaje_bienvenidos.resources
+E:\PROYECTOS\PROYECTO_APO\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Menu_principal.resources
+E:\PROYECTOS\PROYECTO_APO\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Productos.resources
+E:\PROYECTOS\PROYECTO_APO\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Properties.Resources.resources
+E:\PROYECTOS\PROYECTO_APO\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Proveedores.resources
+E:\PROYECTOS\PROYECTO_APO\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Tipo_presentacion.resources
+E:\PROYECTOS\PROYECTO_APO\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Usuarios.resources
+E:\PROYECTOS\PROYECTO_APO\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Ventas.resources
+E:\PROYECTOS\PROYECTO_APO\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.csproj.GenerateResource.Cache
+F:\PROYECTOS\PROYECTO_APO\Proyecto v13\Ejecutable\Datos\Presentación\bin\Debug\Presentación.exe.config
+F:\PROYECTOS\PROYECTO_APO\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.exe
+F:\PROYECTOS\PROYECTO_APO\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.pdb
+F:\PROYECTOS\PROYECTO_APO\Proyecto v13\Ejecutable\Datos\Presentación\bin\Debug\Presentación.exe
+F:\PROYECTOS\PROYECTO_APO\Proyecto v13\Ejecutable\Datos\Presentación\bin\Debug\Presentación.pdb
+F:\PROYECTOS\PROYECTO_APO\Proyecto v13\Ejecutable\Datos\Presentación\bin\Debug\Datos.dll
+F:\PROYECTOS\PROYECTO_APO\Proyecto v13\Ejecutable\Datos\Presentación\bin\Debug\Lógica.dll
+F:\PROYECTOS\PROYECTO_APO\Proyecto v13\Ejecutable\Datos\Presentación\bin\Debug\Datos.pdb
+F:\PROYECTOS\PROYECTO_APO\Proyecto v13\Ejecutable\Datos\Presentación\bin\Debug\Lógica.pdb
+F:\PROYECTOS\PROYECTO_APO\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.csprojResolveAssemblyReference.cache
+F:\PROYECTOS\PROYECTO_APO\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Bienvenidos.resources
+F:\PROYECTOS\PROYECTO_APO\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Cargo.resources
+F:\PROYECTOS\PROYECTO_APO\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Clientes.resources
+F:\PROYECTOS\PROYECTO_APO\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Cliente_Especifico.resources
+F:\PROYECTOS\PROYECTO_APO\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Cliente_general.resources
+F:\PROYECTOS\PROYECTO_APO\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Compras.resources
+F:\PROYECTOS\PROYECTO_APO\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Contrato.resources
+F:\PROYECTOS\PROYECTO_APO\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Empleado_Especifico.resources
+F:\PROYECTOS\PROYECTO_APO\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Empleado_general.resources
+F:\PROYECTOS\PROYECTO_APO\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Productos_Reporte.resources
+F:\PROYECTOS\PROYECTO_APO\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Reportes.resources
+F:\PROYECTOS\PROYECTO_APO\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.RPTDevolucion.resources
+F:\PROYECTOS\PROYECTO_APO\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.RPTFactura_compra.resources
+F:\PROYECTOS\PROYECTO_APO\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.RPTFactura_venta.resources
+F:\PROYECTOS\PROYECTO_APO\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Devolucion_producto.resources
+F:\PROYECTOS\PROYECTO_APO\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Empleados.resources
+F:\PROYECTOS\PROYECTO_APO\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Estado.resources
+F:\PROYECTOS\PROYECTO_APO\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Forma_pago.resources
+F:\PROYECTOS\PROYECTO_APO\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Garantías.resources
+F:\PROYECTOS\PROYECTO_APO\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Iniciar_Sesión.resources
+F:\PROYECTOS\PROYECTO_APO\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Inventario.resources
+F:\PROYECTOS\PROYECTO_APO\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Mensaje_bienvenidos.resources
+F:\PROYECTOS\PROYECTO_APO\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Menu_principal.resources
+F:\PROYECTOS\PROYECTO_APO\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Productos.resources
+F:\PROYECTOS\PROYECTO_APO\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Properties.Resources.resources
+F:\PROYECTOS\PROYECTO_APO\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Proveedores.resources
+F:\PROYECTOS\PROYECTO_APO\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Tipo_presentacion.resources
+F:\PROYECTOS\PROYECTO_APO\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Usuarios.resources
+F:\PROYECTOS\PROYECTO_APO\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Ventas.resources
+F:\PROYECTOS\PROYECTO_APO\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.csproj.GenerateResource.Cache
+F:\Proyecto v13\Ejecutable\Datos\Presentación\bin\Debug\Presentación.exe.config
+F:\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.exe
+F:\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.pdb
+F:\Proyecto v13\Ejecutable\Datos\Presentación\bin\Debug\Presentación.exe
+F:\Proyecto v13\Ejecutable\Datos\Presentación\bin\Debug\Presentación.pdb
+F:\Proyecto v13\Ejecutable\Datos\Presentación\bin\Debug\Datos.dll
+F:\Proyecto v13\Ejecutable\Datos\Presentación\bin\Debug\Lógica.dll
+F:\Proyecto v13\Ejecutable\Datos\Presentación\bin\Debug\Datos.pdb
+F:\Proyecto v13\Ejecutable\Datos\Presentación\bin\Debug\Lógica.pdb
+F:\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.csprojResolveAssemblyReference.cache
+F:\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Bienvenidos.resources
+F:\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Cargo.resources
+F:\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Clientes.resources
+F:\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Cliente_Especifico.resources
+F:\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Cliente_general.resources
+F:\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Compras.resources
+F:\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Contrato.resources
+F:\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Empleado_Especifico.resources
+F:\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Empleado_general.resources
+F:\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Productos_Reporte.resources
+F:\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Reportes.resources
+F:\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.RPTDevolucion.resources
+F:\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.RPTFactura_compra.resources
+F:\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.RPTFactura_venta.resources
+F:\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Devolucion_producto.resources
+F:\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Empleados.resources
+F:\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Estado.resources
+F:\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Forma_pago.resources
+F:\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Garantías.resources
+F:\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Iniciar_Sesión.resources
+F:\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Inventario.resources
+F:\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Mensaje_bienvenidos.resources
+F:\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Menu_principal.resources
+F:\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Productos.resources
+F:\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Properties.Resources.resources
+F:\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Proveedores.resources
+F:\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Tipo_presentacion.resources
+F:\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Usuarios.resources
+F:\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Ventas.resources
+F:\Proyecto v13\Ejecutable\Datos\Presentación\obj\Debug\Presentación.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\sena\proyecto\Ejecutable\Datos\Presentación\bin\Debug\Presentación.exe.config
+C:\Users\USER\Desktop\sena\proyecto\Ejecutable\Datos\Presentación\obj\Debug\Presentación.exe
+C:\Users\USER\Desktop\sena\proyecto\Ejecutable\Datos\Presentación\obj\Debug\Presentación.pdb
+F:\Proyecto\Ejecutable (2)\Ejecutable\Datos\Presentación\bin\Debug\Presentación.exe.config
+F:\Proyecto\Ejecutable (2)\Ejecutable\Datos\Presentación\bin\Debug\Presentación.exe
+F:\Proyecto\Ejecutable (2)\Ejecutable\Datos\Presentación\bin\Debug\Presentación.pdb
+F:\Proyecto\Ejecutable (2)\Ejecutable\Datos\Presentación\bin\Debug\Datos.dll
+F:\Proyecto\Ejecutable (2)\Ejecutable\Datos\Presentación\bin\Debug\Lógica.dll
+F:\Proyecto\Ejecutable (2)\Ejecutable\Datos\Presentación\bin\Debug\Datos.pdb
+F:\Proyecto\Ejecutable (2)\Ejecutable\Datos\Presentación\bin\Debug\Lógica.pdb
+F:\Proyecto\Ejecutable (2)\Ejecutable\Datos\Presentación\obj\Debug\Presentación.csprojResolveAssemblyReference.cache
+F:\Proyecto\Ejecutable (2)\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Bienvenidos.resources
+F:\Proyecto\Ejecutable (2)\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Cargo.resources
+F:\Proyecto\Ejecutable (2)\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Clientes.resources
+F:\Proyecto\Ejecutable (2)\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Cliente_Especifico.resources
+F:\Proyecto\Ejecutable (2)\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Cliente_general.resources
+F:\Proyecto\Ejecutable (2)\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Compras.resources
+F:\Proyecto\Ejecutable (2)\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Contrato.resources
+F:\Proyecto\Ejecutable (2)\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Empleado_Especifico.resources
+F:\Proyecto\Ejecutable (2)\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Empleado_general.resources
+F:\Proyecto\Ejecutable (2)\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Productos_Reporte.resources
+F:\Proyecto\Ejecutable (2)\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Reportes.resources
+F:\Proyecto\Ejecutable (2)\Ejecutable\Datos\Presentación\obj\Debug\Presentación.RPTDevolucion.resources
+F:\Proyecto\Ejecutable (2)\Ejecutable\Datos\Presentación\obj\Debug\Presentación.RPTFactura_compra.resources
+F:\Proyecto\Ejecutable (2)\Ejecutable\Datos\Presentación\obj\Debug\Presentación.RPTFactura_venta.resources
+F:\Proyecto\Ejecutable (2)\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Devolucion_producto.resources
+F:\Proyecto\Ejecutable (2)\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Empleados.resources
+F:\Proyecto\Ejecutable (2)\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Estado.resources
+F:\Proyecto\Ejecutable (2)\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Forma_pago.resources
+F:\Proyecto\Ejecutable (2)\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Garantías.resources
+F:\Proyecto\Ejecutable (2)\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Iniciar_Sesión.resources
+F:\Proyecto\Ejecutable (2)\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Inventario.resources
+F:\Proyecto\Ejecutable (2)\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Mensaje_bienvenidos.resources
+F:\Proyecto\Ejecutable (2)\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Menu_principal.resources
+F:\Proyecto\Ejecutable (2)\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Productos.resources
+F:\Proyecto\Ejecutable (2)\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Properties.Resources.resources
+F:\Proyecto\Ejecutable (2)\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Proveedores.resources
+F:\Proyecto\Ejecutable (2)\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Tipo_presentacion.resources
+F:\Proyecto\Ejecutable (2)\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Usuarios.resources
+F:\Proyecto\Ejecutable (2)\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Ventas.resources
+F:\Proyecto\Ejecutable (2)\Ejecutable\Datos\Presentación\obj\Debug\Presentación.csproj.GenerateResource.Cache
+F:\Proyecto\Ejecutable (2)\Ejecutable\Datos\Presentación\obj\Debug\Presentación.exe
+F:\Proyecto\Ejecutable (2)\Ejecutable\Datos\Presentación\obj\Debug\Presentación.pdb
+G:\PROYECTOS\PROYECTO_APO\Proyecto v14\Ejecutable\Datos\Presentación\bin\Debug\Presentación.exe.config
+G:\PROYECTOS\PROYECTO_APO\Proyecto v14\Ejecutable\Datos\Presentación\obj\Debug\Presentación.exe
+G:\PROYECTOS\PROYECTO_APO\Proyecto v14\Ejecutable\Datos\Presentación\obj\Debug\Presentación.pdb
+F:\PROYECTOS\PROYECTO_APO\Proyecto v14\Ejecutable\Datos\Presentación\bin\Debug\Presentación.exe.config
+F:\PROYECTOS\PROYECTO_APO\Proyecto v14\Ejecutable\Datos\Presentación\obj\Debug\Presentación.exe
+F:\PROYECTOS\PROYECTO_APO\Proyecto v14\Ejecutable\Datos\Presentación\obj\Debug\Presentación.pdb
+F:\PROYECTOS\PROYECTO_APO\Proyecto v14\Ejecutable\Datos\Presentación\bin\Debug\Presentación.exe
+F:\PROYECTOS\PROYECTO_APO\Proyecto v14\Ejecutable\Datos\Presentación\bin\Debug\Presentación.pdb
+F:\PROYECTOS\PROYECTO_APO\Proyecto v14\Ejecutable\Datos\Presentación\bin\Debug\Datos.dll
+F:\PROYECTOS\PROYECTO_APO\Proyecto v14\Ejecutable\Datos\Presentación\bin\Debug\Lógica.dll
+F:\PROYECTOS\PROYECTO_APO\Proyecto v14\Ejecutable\Datos\Presentación\bin\Debug\Datos.pdb
+F:\PROYECTOS\PROYECTO_APO\Proyecto v14\Ejecutable\Datos\Presentación\bin\Debug\Lógica.pdb
+F:\PROYECTOS\PROYECTO_APO\Proyecto v14\Ejecutable\Datos\Presentación\obj\Debug\Presentación.csprojResolveAssemblyReference.cache
+F:\PROYECTOS\PROYECTO_APO\Proyecto v14\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Bienvenidos.resources
+F:\PROYECTOS\PROYECTO_APO\Proyecto v14\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Cargo.resources
+F:\PROYECTOS\PROYECTO_APO\Proyecto v14\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Clientes.resources
+F:\PROYECTOS\PROYECTO_APO\Proyecto v14\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Cliente_Especifico.resources
+F:\PROYECTOS\PROYECTO_APO\Proyecto v14\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Cliente_general.resources
+F:\PROYECTOS\PROYECTO_APO\Proyecto v14\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Compras.resources
+F:\PROYECTOS\PROYECTO_APO\Proyecto v14\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Contrato.resources
+F:\PROYECTOS\PROYECTO_APO\Proyecto v14\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Empleado_Especifico.resources
+F:\PROYECTOS\PROYECTO_APO\Proyecto v14\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Empleado_general.resources
+F:\PROYECTOS\PROYECTO_APO\Proyecto v14\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Productos_Reporte.resources
+F:\PROYECTOS\PROYECTO_APO\Proyecto v14\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Reportes.resources
+F:\PROYECTOS\PROYECTO_APO\Proyecto v14\Ejecutable\Datos\Presentación\obj\Debug\Presentación.RPTDevolucion.resources
+F:\PROYECTOS\PROYECTO_APO\Proyecto v14\Ejecutable\Datos\Presentación\obj\Debug\Presentación.RPTFactura_compra.resources
+F:\PROYECTOS\PROYECTO_APO\Proyecto v14\Ejecutable\Datos\Presentación\obj\Debug\Presentación.RPTFactura_venta.resources
+F:\PROYECTOS\PROYECTO_APO\Proyecto v14\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Devolucion_producto.resources
+F:\PROYECTOS\PROYECTO_APO\Proyecto v14\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Empleados.resources
+F:\PROYECTOS\PROYECTO_APO\Proyecto v14\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Estado.resources
+F:\PROYECTOS\PROYECTO_APO\Proyecto v14\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Forma_pago.resources
+F:\PROYECTOS\PROYECTO_APO\Proyecto v14\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Garantías.resources
+F:\PROYECTOS\PROYECTO_APO\Proyecto v14\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Iniciar_Sesión.resources
+F:\PROYECTOS\PROYECTO_APO\Proyecto v14\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Inventario.resources
+F:\PROYECTOS\PROYECTO_APO\Proyecto v14\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Mensaje_bienvenidos.resources
+F:\PROYECTOS\PROYECTO_APO\Proyecto v14\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Menu_principal.resources
+F:\PROYECTOS\PROYECTO_APO\Proyecto v14\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Productos.resources
+F:\PROYECTOS\PROYECTO_APO\Proyecto v14\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Properties.Resources.resources
+F:\PROYECTOS\PROYECTO_APO\Proyecto v14\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Proveedores.resources
+F:\PROYECTOS\PROYECTO_APO\Proyecto v14\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Tipo_presentacion.resources
+F:\PROYECTOS\PROYECTO_APO\Proyecto v14\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Usuarios.resources
+F:\PROYECTOS\PROYECTO_APO\Proyecto v14\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Ventas.resources
+F:\PROYECTOS\PROYECTO_APO\Proyecto v14\Ejecutable\Datos\Presentación\obj\Debug\Presentación.csproj.GenerateResource.Cache
+C:\Users\Paula\Documents\PROYECTOS\C#\Proyecto v14\Ejecutable\Datos\Presentación\bin\Debug\Presentación.exe.config
+C:\Users\Paula\Documents\PROYECTOS\C#\Proyecto v14\Ejecutable\Datos\Presentación\obj\Debug\Presentación.exe
+C:\Users\Paula\Documents\PROYECTOS\C#\Proyecto v14\Ejecutable\Datos\Presentación\obj\Debug\Presentación.pdb
+C:\Users\Paula\Documents\PROYECTOS\PROGRAMACION\C#\Proyecto v14\Ejecutable\Datos\Presentación\bin\Debug\Presentación.exe.config
+C:\Users\Paula\Documents\PROYECTOS\PROGRAMACION\C#\Proyecto v14\Ejecutable\Datos\Presentación\obj\Debug\Presentación.exe
+C:\Users\Paula\Documents\PROYECTOS\PROGRAMACION\C#\Proyecto v14\Ejecutable\Datos\Presentación\obj\Debug\Presentación.pdb
+C:\Users\Paula\Documents\PROYECTOS\PROGRAMACION\C#\Proyecto v14\Ejecutable\Datos\Presentación\bin\Debug\Presentación.exe
+C:\Users\Paula\Documents\PROYECTOS\PROGRAMACION\C#\Proyecto v14\Ejecutable\Datos\Presentación\bin\Debug\Presentación.pdb
+C:\Users\Paula\Documents\PROYECTOS\PROGRAMACION\C#\Proyecto v14\Ejecutable\Datos\Presentación\bin\Debug\Datos.dll
+C:\Users\Paula\Documents\PROYECTOS\PROGRAMACION\C#\Proyecto v14\Ejecutable\Datos\Presentación\bin\Debug\Lógica.dll
+C:\Users\Paula\Documents\PROYECTOS\PROGRAMACION\C#\Proyecto v14\Ejecutable\Datos\Presentación\bin\Debug\Datos.pdb
+C:\Users\Paula\Documents\PROYECTOS\PROGRAMACION\C#\Proyecto v14\Ejecutable\Datos\Presentación\bin\Debug\Lógica.pdb
+C:\Users\Paula\Documents\PROYECTOS\PROGRAMACION\C#\Proyecto v14\Ejecutable\Datos\Presentación\obj\Debug\Presentación.csprojResolveAssemblyReference.cache
+C:\Users\Paula\Documents\PROYECTOS\PROGRAMACION\C#\Proyecto v14\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Bienvenidos.resources
+C:\Users\Paula\Documents\PROYECTOS\PROGRAMACION\C#\Proyecto v14\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Cargo.resources
+C:\Users\Paula\Documents\PROYECTOS\PROGRAMACION\C#\Proyecto v14\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Clientes.resources
+C:\Users\Paula\Documents\PROYECTOS\PROGRAMACION\C#\Proyecto v14\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Cliente_Especifico.resources
+C:\Users\Paula\Documents\PROYECTOS\PROGRAMACION\C#\Proyecto v14\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Cliente_general.resources
+C:\Users\Paula\Documents\PROYECTOS\PROGRAMACION\C#\Proyecto v14\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Compras.resources
+C:\Users\Paula\Documents\PROYECTOS\PROGRAMACION\C#\Proyecto v14\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Contrato.resources
+C:\Users\Paula\Documents\PROYECTOS\PROGRAMACION\C#\Proyecto v14\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Empleado_Especifico.resources
+C:\Users\Paula\Documents\PROYECTOS\PROGRAMACION\C#\Proyecto v14\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Empleado_general.resources
+C:\Users\Paula\Documents\PROYECTOS\PROGRAMACION\C#\Proyecto v14\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Productos_Reporte.resources
+C:\Users\Paula\Documents\PROYECTOS\PROGRAMACION\C#\Proyecto v14\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Reportes.resources
+C:\Users\Paula\Documents\PROYECTOS\PROGRAMACION\C#\Proyecto v14\Ejecutable\Datos\Presentación\obj\Debug\Presentación.RPTDevolucion.resources
+C:\Users\Paula\Documents\PROYECTOS\PROGRAMACION\C#\Proyecto v14\Ejecutable\Datos\Presentación\obj\Debug\Presentación.RPTFactura_compra.resources
+C:\Users\Paula\Documents\PROYECTOS\PROGRAMACION\C#\Proyecto v14\Ejecutable\Datos\Presentación\obj\Debug\Presentación.RPTFactura_venta.resources
+C:\Users\Paula\Documents\PROYECTOS\PROGRAMACION\C#\Proyecto v14\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Devolucion_producto.resources
+C:\Users\Paula\Documents\PROYECTOS\PROGRAMACION\C#\Proyecto v14\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Empleados.resources
+C:\Users\Paula\Documents\PROYECTOS\PROGRAMACION\C#\Proyecto v14\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Estado.resources
+C:\Users\Paula\Documents\PROYECTOS\PROGRAMACION\C#\Proyecto v14\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Forma_pago.resources
+C:\Users\Paula\Documents\PROYECTOS\PROGRAMACION\C#\Proyecto v14\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Garantías.resources
+C:\Users\Paula\Documents\PROYECTOS\PROGRAMACION\C#\Proyecto v14\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Iniciar_Sesión.resources
+C:\Users\Paula\Documents\PROYECTOS\PROGRAMACION\C#\Proyecto v14\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Inventario.resources
+C:\Users\Paula\Documents\PROYECTOS\PROGRAMACION\C#\Proyecto v14\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Mensaje_bienvenidos.resources
+C:\Users\Paula\Documents\PROYECTOS\PROGRAMACION\C#\Proyecto v14\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Menu_principal.resources
+C:\Users\Paula\Documents\PROYECTOS\PROGRAMACION\C#\Proyecto v14\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Productos.resources
+C:\Users\Paula\Documents\PROYECTOS\PROGRAMACION\C#\Proyecto v14\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Properties.Resources.resources
+C:\Users\Paula\Documents\PROYECTOS\PROGRAMACION\C#\Proyecto v14\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Proveedores.resources
+C:\Users\Paula\Documents\PROYECTOS\PROGRAMACION\C#\Proyecto v14\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Tipo_presentacion.resources
+C:\Users\Paula\Documents\PROYECTOS\PROGRAMACION\C#\Proyecto v14\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Usuarios.resources
+C:\Users\Paula\Documents\PROYECTOS\PROGRAMACION\C#\Proyecto v14\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Ventas.resources
+C:\Users\Paula\Documents\PROYECTOS\PROGRAMACION\C#\Proyecto v14\Ejecutable\Datos\Presentación\obj\Debug\Presentación.csproj.GenerateResource.Cache
+G:\Proyectos\Programación\C#\A.P.O\Proyecto v14\Ejecutable\Datos\Presentación\bin\Debug\Presentación.exe.config
+G:\Proyectos\Programación\C#\A.P.O\Proyecto v14\Ejecutable\Datos\Presentación\obj\Debug\Presentación.exe
+G:\Proyectos\Programación\C#\A.P.O\Proyecto v14\Ejecutable\Datos\Presentación\obj\Debug\Presentación.pdb
+G:\Proyectos\Programación\C#\A.P.O\Proyecto v14\Ejecutable\Datos\Presentación\bin\Debug\Presentación.exe
+G:\Proyectos\Programación\C#\A.P.O\Proyecto v14\Ejecutable\Datos\Presentación\bin\Debug\Presentación.pdb
+G:\Proyectos\Programación\C#\A.P.O\Proyecto v14\Ejecutable\Datos\Presentación\bin\Debug\Datos.dll
+G:\Proyectos\Programación\C#\A.P.O\Proyecto v14\Ejecutable\Datos\Presentación\bin\Debug\Lógica.dll
+G:\Proyectos\Programación\C#\A.P.O\Proyecto v14\Ejecutable\Datos\Presentación\bin\Debug\Datos.pdb
+G:\Proyectos\Programación\C#\A.P.O\Proyecto v14\Ejecutable\Datos\Presentación\bin\Debug\Lógica.pdb
+G:\Proyectos\Programación\C#\A.P.O\Proyecto v14\Ejecutable\Datos\Presentación\obj\Debug\Presentación.csprojResolveAssemblyReference.cache
+G:\Proyectos\Programación\C#\A.P.O\Proyecto v14\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Bienvenidos.resources
+G:\Proyectos\Programación\C#\A.P.O\Proyecto v14\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Cargo.resources
+G:\Proyectos\Programación\C#\A.P.O\Proyecto v14\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Clientes.resources
+G:\Proyectos\Programación\C#\A.P.O\Proyecto v14\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Cliente_Especifico.resources
+G:\Proyectos\Programación\C#\A.P.O\Proyecto v14\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Cliente_general.resources
+G:\Proyectos\Programación\C#\A.P.O\Proyecto v14\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Compras.resources
+G:\Proyectos\Programación\C#\A.P.O\Proyecto v14\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Contrato.resources
+G:\Proyectos\Programación\C#\A.P.O\Proyecto v14\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Empleado_Especifico.resources
+G:\Proyectos\Programación\C#\A.P.O\Proyecto v14\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Empleado_general.resources
+G:\Proyectos\Programación\C#\A.P.O\Proyecto v14\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Productos_Reporte.resources
+G:\Proyectos\Programación\C#\A.P.O\Proyecto v14\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Reportes.resources
+G:\Proyectos\Programación\C#\A.P.O\Proyecto v14\Ejecutable\Datos\Presentación\obj\Debug\Presentación.RPTDevolucion.resources
+G:\Proyectos\Programación\C#\A.P.O\Proyecto v14\Ejecutable\Datos\Presentación\obj\Debug\Presentación.RPTFactura_compra.resources
+G:\Proyectos\Programación\C#\A.P.O\Proyecto v14\Ejecutable\Datos\Presentación\obj\Debug\Presentación.RPTFactura_venta.resources
+G:\Proyectos\Programación\C#\A.P.O\Proyecto v14\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Devolucion_producto.resources
+G:\Proyectos\Programación\C#\A.P.O\Proyecto v14\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Empleados.resources
+G:\Proyectos\Programación\C#\A.P.O\Proyecto v14\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Estado.resources
+G:\Proyectos\Programación\C#\A.P.O\Proyecto v14\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Forma_pago.resources
+G:\Proyectos\Programación\C#\A.P.O\Proyecto v14\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Garantías.resources
+G:\Proyectos\Programación\C#\A.P.O\Proyecto v14\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Iniciar_Sesión.resources
+G:\Proyectos\Programación\C#\A.P.O\Proyecto v14\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Inventario.resources
+G:\Proyectos\Programación\C#\A.P.O\Proyecto v14\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Mensaje_bienvenidos.resources
+G:\Proyectos\Programación\C#\A.P.O\Proyecto v14\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Menu_principal.resources
+G:\Proyectos\Programación\C#\A.P.O\Proyecto v14\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Productos.resources
+G:\Proyectos\Programación\C#\A.P.O\Proyecto v14\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Properties.Resources.resources
+G:\Proyectos\Programación\C#\A.P.O\Proyecto v14\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Proveedores.resources
+G:\Proyectos\Programación\C#\A.P.O\Proyecto v14\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Tipo_presentacion.resources
+G:\Proyectos\Programación\C#\A.P.O\Proyecto v14\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Usuarios.resources
+G:\Proyectos\Programación\C#\A.P.O\Proyecto v14\Ejecutable\Datos\Presentación\obj\Debug\Presentación.Ventas.resources
+G:\Proyectos\Programación\C#\A.P.O\Proyecto v14\Ejecutable\Datos\Presentación\obj\Debug\Presentación.csproj.GenerateResource.Cache
